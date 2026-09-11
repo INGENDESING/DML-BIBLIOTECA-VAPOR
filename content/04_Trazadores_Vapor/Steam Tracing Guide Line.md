@@ -294,8 +294,8 @@ Table 2.1 Process Temperature vs. Tracer Type
 
 
 
-
-
+
+
 
 
 
@@ -321,7 +321,7 @@ Table 2.1 Process Temperature vs. Tracer Type
 	
 
 
-
+
 
 
 
@@ -349,7 +349,7 @@ Table 2.1 Process Temperature vs. Tracer Type
 	
 
 
-
+
 
 
 
@@ -383,7 +383,7 @@ Table 2.1 Process Temperature vs. Tracer Type
 	
 "
 
-
+
 
 
 
@@ -427,7 +427,7 @@ $
 	
 '
 
-
+
 
 
 
@@ -457,7 +457,7 @@ $
 
 
 
-
+
 
 
 
@@ -480,9 +480,9 @@ $
 
 (
 (
-
+
 
-
+
 
 
 
@@ -513,7 +513,7 @@ $
 	
 
 
-
+
 
 
 
@@ -530,7 +530,7 @@ $
 	
 
 
-
+
 
 
 
@@ -547,7 +547,7 @@ $
 	
 "
 
-
+
 
 
 
@@ -565,7 +565,7 @@ $
 	
 '
 
-
+
 
 
 
@@ -584,475 +584,475 @@ $
 
 
 
-
+
 )
 
 
 
 '
-
+
 
 
 
 #
-
+
 
 
 
 #
-
+
 
 
 
 #
-
+
 
 
 
 #
-
+
 
 
 
 '
-
+
 #
 
 
 
-
-
-
-
-#
-
-
-
-
-#
-
-
-
-
-#
-
-
-
 
-'
-
+
+
+
+#
+
+
+
+
+#
+
+
+
+
+#
+
 
 
 
 '
-
+
+
+
+
+'
+
 
 
 
 
-
+
 
 
 
 #
-
+
 
 
 
 #
-
+
 
 
 
 '
-
+
 
 
 
 '
-
+
 
 
 
 '
-
+
 '
 
 
 
 
-
+
 
 
 
 #
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 
 
 
 
 
-
+
 
 
 
 #
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 #
 
 
 
-
+
 
 
 
 
 #
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 
 
 
 
 
 #
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 #
 
 
 
 
 
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 '
 
 
 
 
 
-
+
 )
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 )
 #
 
 '
 
-
+
 
 
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 )
 #
 
 '
 
-
+
 
 
 
 
 
 '
-
+
 )
 
 
 
 '
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 )
 #
 
 '
 
-
+
 )
 #
 
 '
 
-
+
 
 #
 
 
 
 
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 )
 #
 
 '
 
-
+
 )
 #
 
 '
 
-
+
 '
 #
 
 
 
 
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 )
 #
 
 
 
-
+
 )
 #
 
 '
 
-
+
 
 
 '
 
-
+
 
 
 
 
 
 "
-
+
 #
 
 
 
-
+
 #
 
 
 
-
+
 )
 #
 
 
 
-
+
 )
 #
 
 '
 
-
+
 
 
 
 "
-
+
 5
 DESIGN GUIDE
 Notes . . . Tables 3.1 and 3.2 are based on calcium silicate insulation and give approximate values for cellular glass and perlite. All tracers are
@@ -1067,7 +1067,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 	
-
+
 
 
 
@@ -1080,7 +1080,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -1248,7 +1248,7 @@ $
 
 
 
-
+
 
 	
 
@@ -1265,7 +1265,7 @@ $
 	
 
 
-
+
 
 
 
@@ -1277,7 +1277,7 @@ $
 
 
 
-
+
 
 
 	
@@ -1288,11 +1288,11 @@ $
 
 
 
-
+
 
 
 
-
+
 
 
 
@@ -1320,18 +1320,18 @@ $
 
 
 
-
+
 
 
 
 
-
+
 
 
 
 
 
-
+
 
 	
 
@@ -1347,7 +1347,7 @@ $
 
 
 
-
+
 
 
 	
@@ -1355,7 +1355,7 @@ $
 
 
 
-
+
 
 
 
@@ -1387,7 +1387,7 @@ $
 	
 
 
-
+
 
 
 
@@ -1401,7 +1401,7 @@ $
 
 
 
-
+
 
 
 
@@ -1424,7 +1424,7 @@ $
 
 
 
-
+
 
 
 
@@ -1467,10 +1467,10 @@ $
 
 
 
-
+
 
 
-
+
 
 
 
@@ -1498,7 +1498,7 @@ $
 
 
 
-
+
 
 
 
@@ -1525,7 +1525,7 @@ $
 	
 
 
-
+
 
 
 
@@ -1538,7 +1538,7 @@ $
 	
 
 
-
+
 
 
 
@@ -1568,7 +1568,7 @@ $
 	
 
 
-
+
 
 
 	
@@ -1585,7 +1585,7 @@ $
 
 
 
-
+
 
 
 
@@ -1602,7 +1602,7 @@ $
 
 
 
-
+
 
 
 
@@ -1635,7 +1635,7 @@ $
 	
 
 
-
+
 
 
 
@@ -1656,7 +1656,7 @@ $
 
 
 
-
+
 
 
 
@@ -1666,20 +1666,20 @@ $
 
 
 
-
+
 
 
 
 
-
-
+
+
 
 
 
 
 	
 
-
+
 
 
 
@@ -1691,7 +1691,7 @@ $
 
 
 
-
+
 
 
 
@@ -1704,7 +1704,7 @@ $
 
 	
 
-
+
 
 	
 
@@ -1713,7 +1713,7 @@ $
 
 	
 
-
+
 
 
 
@@ -1735,7 +1735,7 @@ $
 
 
 
-
+
 
 
 
@@ -1745,25 +1745,25 @@ $
 
 
 
-
+
 
 
 
 	
 
 
-
+
 	
 
 
 
 
-
+
 
 
 
 	
-
+
 
 
 
@@ -1773,11 +1773,11 @@ $
 
 
 
-
+
 
 
 
-
+
 
 
 
@@ -1790,7 +1790,7 @@ $
 
 
 
-
+
 
 
 
@@ -1809,7 +1809,7 @@ $
 
 
 
-
+
 	
 
 
@@ -1833,7 +1833,7 @@ $
 
 
 
-
+
 
 
 
@@ -1843,13 +1843,13 @@ $
 
 
 
-
+
 	
 
 
 
 
-
+
 
 
 
@@ -1862,18 +1862,18 @@ $
 
 
 
-
+
 
 
 
-
+
 
 
-
+
 
 
 
-
+
 
 
 
@@ -1881,31 +1881,31 @@ $
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 
-
+
 
 
 
-
+
 	
 
 	
 
 
 
-
+
 
 
 	
@@ -1915,7 +1915,7 @@ $
 
 
 
-
+
 
 
 	
@@ -1944,13 +1944,13 @@ $
 
 
 
-
+
 
 
 
 
-
-
+
+
 
 
 
@@ -1958,18 +1958,18 @@ $
 
 
 
-
+
 
 
 
-
+
 
 
 
 
 
-
-
+
+
 
 
 
@@ -1989,11 +1989,11 @@ $
 
 
 	
-
+
 
 
 
-
+
 
 
 
@@ -2021,38 +2021,38 @@ $
 	
 
 
-
-
+
+
 
 
 	
 
 	
-
+
 
 
 
 
 
-
+
 
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 
-
+
 
 
 
@@ -2063,11 +2063,11 @@ $
 
 
 
-
+
 
 
 
-
+
 
 
 
@@ -2076,7 +2076,7 @@ $
 
 
 
-
+
 
 
 
@@ -2100,18 +2100,18 @@ $
 
 
 
-
+
 
 
 
 
 
-
+
 
 
 
 
-
+
 
 
 
@@ -2132,16 +2132,16 @@ $
 
 
 
-
+
 
 
 
-
+
 	
 
 
 
-
+
 
 
 
@@ -2170,13 +2170,13 @@ $
 
 
 
-
+
 
 
 
 
 
-
+
 
 
 
@@ -2198,7 +2198,7 @@ $
 
 
 
-
+
 	
 
 
@@ -2207,7 +2207,7 @@ $
 
 
 
-
+
 
 
 
@@ -2220,7 +2220,7 @@ $
 
 
 
-
+
 
 
 
@@ -2236,7 +2236,7 @@ $
 
 
 
-
+
 
 
 
@@ -2255,7 +2255,7 @@ $
 
 
 
-
+
 
 	
 
@@ -2269,16 +2269,16 @@ $
 
 
 
-
+
 
 
 
-
+
 
 
 
 
-
+
 
 
 
@@ -2346,7 +2346,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 	
-
+
 
 
 
@@ -2359,7 +2359,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -2544,7 +2544,7 @@ $
 
 
 
-
+
 
 
 
@@ -2554,8 +2554,8 @@ $
 
 
 
-
-
+
+
 
 
 
@@ -2575,13 +2575,13 @@ $
 
 
 
-
+
 
 
-
-
+
+
 
-
+
 
 
 
@@ -2607,7 +2607,7 @@ $
 
 
 
-
+
 
 
 
@@ -2632,7 +2632,7 @@ $
 
 
 
-
+
 
 
 
@@ -2642,7 +2642,7 @@ $
 
 
 
-
+
 
 
 	
@@ -2686,13 +2686,13 @@ $
 
 
 
-
+
 
 
 
 
 	
-
+
 
 	
 
@@ -2714,7 +2714,7 @@ $
 
 
 
-
+
 
 
 
@@ -2744,7 +2744,7 @@ $
 
 
 
-
+
 
 
 
@@ -2753,10 +2753,10 @@ $
 
 	
 
-
+
 
 
-
+
 
 
 
@@ -2782,7 +2782,7 @@ $
 
 
 
-
+
 
 
 
@@ -2792,7 +2792,7 @@ $
 
 
 
-
+
 
 
 
@@ -2800,10 +2800,10 @@ $
 
 
 
-
+
 
 
-
+
 
 
 	
@@ -2812,7 +2812,7 @@ $
 
 
 
-
+
 
 
 
@@ -2820,7 +2820,7 @@ $
 
 
 
-
+
 
 
 	
@@ -2844,7 +2844,7 @@ $
 
 
 
-
+
 
 	
 
@@ -2906,7 +2906,7 @@ $
 
 
 
-
+
 
 
 
@@ -2938,7 +2938,7 @@ $
 
 
 	
-
+
 
 
 	
@@ -2947,7 +2947,7 @@ $
 
 
 
-
+
 
 
 
@@ -3002,7 +3002,7 @@ $
 
 
 
-
+
 	
 
 
@@ -3014,7 +3014,7 @@ $
 
 
 
-
+
 
 
 
@@ -3031,7 +3031,7 @@ $
 
 
 
-
+
 
 	
 	
@@ -3067,14 +3067,14 @@ $
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
@@ -3104,7 +3104,7 @@ $
 
 	
 
-
+
 
 
 
@@ -3113,7 +3113,7 @@ $
 	
 
 
-
+
 
 
 
@@ -3130,7 +3130,7 @@ $
 
 
 
-
+
 
 
 	
@@ -3164,10 +3164,10 @@ $
 
 
 
-
+
 
 
-
+
 	
 
 
@@ -3235,11 +3235,11 @@ $
 	
 
 
-
+
 
 
 
-
+
 
 
 
@@ -3260,24 +3260,24 @@ $
 
 
 
-
+
 	
 
 
-
+
 
 
 
 
-
-
+
+
 
 
 
 	
 
 
-
+
 
 
 
@@ -3285,7 +3285,7 @@ $
 
 
 
-
+
 	
 
 
@@ -3293,7 +3293,7 @@ $
 
 
 
-
+
 
 
 
@@ -3340,8 +3340,8 @@ $
 
 	
 
-
-
+
+
 
 
 
@@ -3349,31 +3349,31 @@ $
 
 
 
-
+
 
 
 	
-
+
 
-
+
 
 
 
-
+
 
 
 
 
-
-
+
+
 
 
 
 	
 
 
-
-
+
+
 
 
 
@@ -3403,16 +3403,16 @@ $
 
 
 
-
+
 
-
+
 
 
 
 
 
 
-
+
 
 
 
@@ -3428,7 +3428,7 @@ $
 	
 
 	
-
+
 
 
 
@@ -3436,41 +3436,41 @@ $
 
 
 	
-
+
 
 
 
 
-
-
+
+
 
 
 
-
+
 
 
 	
-
+
 	
 
-
+
 
 
 	
-
+
 
 
 
 
-
-
-
+
+
+
 
 
 	
 
 
-
+
 
 
 
@@ -3493,7 +3493,7 @@ $
 
 
 
-
+
 
 
 
@@ -3507,7 +3507,7 @@ $
 
 	
 
-
+
 
 
 
@@ -3522,43 +3522,43 @@ $
 
 
 	
-
+
 
 
 
 
-
+
 
 
 
 
-
+
 
 
 
 
-
-
+
+
 
 
 	
-
+
 	
 
 
 
 
-
+
 
 
 	
 	
 
 
-
+
 
 
-
+
 	
 
 
@@ -3583,7 +3583,7 @@ $
 
 
 
-
+
 
 
 
@@ -3608,35 +3608,35 @@ $
 
 
 	
-
+
 
 
 
 
 
-
+
 
 
 
-
-
+
+
 
 
 	
-
+
 
-
+
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
@@ -3660,7 +3660,7 @@ $
 
 
 
-
+
 
 
 
@@ -3670,7 +3670,7 @@ $
 
 
 
-
+
 
 
 
@@ -3694,30 +3694,30 @@ $
 
 
 
-
+
 
 
 
 
-
+
 
 
 
 	
-
+
 	
 
 
 
 
-
-
+
+
 
 
 	
 
 
-
+
 
 
 
@@ -3787,7 +3787,7 @@ for either tracer under like conditions.
 
 
 	
-
+
 
 
 
@@ -3800,7 +3800,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -3979,7 +3979,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -4015,8 +4015,8 @@ for either tracer under like conditions.
 
 
 
-
-
+
+
 
 
 
@@ -4046,109 +4046,109 @@ for either tracer under like conditions.
 
 
 
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-	
-
-
-
-
-
-
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
 
-
-
-
-
-
-
-
-
-	
-
 
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
 
 
 
-
-
+
 
-
+
+	
 
 
 
-
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 
 
@@ -4194,14 +4194,14 @@ for either tracer under like conditions.
 
 
 
-
-
+
+
 
 
 	
 
 	
-
+
 
 
 
@@ -4293,7 +4293,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -4302,14 +4302,14 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 	
 
 
-
-
+
+
 
 
 
@@ -4323,12 +4323,12 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
 
-
+
 	
 
 
@@ -4348,884 +4348,884 @@ for either tracer under like conditions.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-	
-
-
-
-
-
-
-	
-
-	
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-	
-
-
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-	
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-	
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+	
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
 
 
 
@@ -5234,7 +5234,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5258,7 +5258,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5267,7 +5267,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5282,11 +5282,11 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 	
-
+
 
 
 	
@@ -5298,7 +5298,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5314,13 +5314,13 @@ for either tracer under like conditions.
 
 
 	
-
+
 
 
 
 
 
-
+
 
 
 
@@ -5334,7 +5334,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5354,8 +5354,8 @@ for either tracer under like conditions.
 
 
 
-
-
+
+
 
 
 	
@@ -5364,7 +5364,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5378,11 +5378,11 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
-
+
 
 
 
@@ -5406,7 +5406,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5427,7 +5427,7 @@ for either tracer under like conditions.
 
 
 
-
+
 	
 
 
@@ -5440,7 +5440,7 @@ for either tracer under like conditions.
 
 
 
-
+
 
 
 
@@ -5456,7 +5456,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 	
-
+
 
 
 
@@ -5469,7 +5469,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -5631,7 +5631,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -5696,7 +5696,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -5716,104 +5716,104 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
 
 
 
@@ -5828,7 +5828,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 	
 
 
@@ -5844,7 +5844,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -5880,12 +5880,12 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
-
+
 
 
 
@@ -5915,7 +5915,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -5952,7 +5952,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -5978,7 +5978,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -5998,7 +5998,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6010,11 +6010,11 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 	
 
 	
-
+
 
 	
 	
@@ -6031,7 +6031,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6039,16 +6039,16 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
-
+
 
 
-
+
 	
 
-
+
 
 
 	
@@ -6065,13 +6065,13 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 	
-
+
 
 
 
 
 
-
+
 
 
 
@@ -6079,7 +6079,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6106,8 +6106,8 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
-
+
+
 
 
 
@@ -6128,7 +6128,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 	
 
 
-
+
 
 	
 	
@@ -6137,26 +6137,26 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
 
-
+
 
-
+
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
@@ -6178,13 +6178,13 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 	
-
+
 
 
 
 
 	
-
+
 
 
 
@@ -6210,7 +6210,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6232,13 +6232,13 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 	
 
 
-
+
 
 
 
@@ -6251,7 +6251,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 	
 
 
-
+
 
 
 	
@@ -6264,7 +6264,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6281,7 +6281,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 	
 
 	
@@ -6295,7 +6295,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 	
-
+
 
 
 
@@ -6307,7 +6307,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6329,15 +6329,15 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 	
-
+
 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -6353,13 +6353,13 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 	
 
-
-
+
+
 
 
 
@@ -6371,7 +6371,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 	
 
 
-
+
 
 
 
@@ -6381,15 +6381,15 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
-
+
 
-
+
 
 
 
@@ -6415,7 +6415,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6469,20 +6469,20 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
-
+
 
-
+
 
 
 
@@ -6494,7 +6494,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6504,7 +6504,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 	
@@ -6532,13 +6532,13 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
-
+
 
 
 
@@ -6580,7 +6580,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 	
 
-
+
 
 
 
@@ -6612,7 +6612,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6626,14 +6626,14 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
-
+
+
 
 
 
-
+
 
-
+
 
 
 
@@ -6645,17 +6645,17 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 	
@@ -6674,7 +6674,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6697,7 +6697,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 	
@@ -6731,11 +6731,11 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
-
+
 
 	
 
@@ -6753,7 +6753,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6769,7 +6769,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6780,7 +6780,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6864,16 +6864,16 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
-
+
 
 
 
 
-
+
 
 
 	
@@ -6891,7 +6891,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 	
 
 
-
+
 
 
 	
@@ -6910,10 +6910,10 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 	
 
-
-
+
+
 
-
+
 
 
 
@@ -6935,11 +6935,11 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 	
-
+
 
 
 
@@ -6947,13 +6947,13 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 	
 
-
+
 
 
 
@@ -6981,7 +6981,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -6991,24 +6991,24 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
-
+
 
 
 
 
 
-
+
 
 
 
 
 
-
-
+
+
 
-
+
 
 
 
@@ -7033,7 +7033,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -7062,7 +7062,7 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 	
 
 
-
+
 
 	
 
@@ -7114,9 +7114,9 @@ Ambient Temperature: 0°F, Wind: 25 mph, Insulation: Calcium Silicate
 
 
 
-
+
 
-
+
 
 
 
@@ -7138,7 +7138,7 @@ For pipe temperatures below 27°C, consider using cellular glass or other insula
 
 	
 
-
+
 
 
 
@@ -7165,7 +7165,7 @@ For pipe temperatures below 27°C, consider using cellular glass or other insula
 
 
 
-
+
 
 
 
@@ -7175,7 +7175,7 @@ For pipe temperatures below 27°C, consider using cellular glass or other insula
 
 
 
-
+
 
 
 
@@ -7186,7 +7186,7 @@ For pipe temperatures below 27°C, consider using cellular glass or other insula
 
 
 
-
+
 
 
 
@@ -7197,7 +7197,7 @@ For pipe temperatures below 27°C, consider using cellular glass or other insula
 
 
 
-
+
 
  
 
@@ -7208,7 +7208,7 @@ For pipe temperatures below 27°C, consider using cellular glass or other insula
 
 
 
-
+
 
 !
 
@@ -7219,7 +7219,7 @@ For pipe temperatures below 27°C, consider using cellular glass or other insula
 !
 
 
-
+
 
  
 
@@ -7890,174 +7890,11 @@ $
 
 
 
-
-
-
-
-
-	
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-	
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
 
@@ -8072,207 +7909,72 @@ $
 
 
 
-
-
-
 
-
-
-
-
-
-
-
 
-
+
+
 
-
 
-
-
-
 
+
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 
 
+
 
 
+
+
+
+
+
+
+
 
 
 	
 
+
+
 
-
-
 
+
 
-
-
+
 
 
+
+
+
+
+
+
+
+
+
+
+
 
 
+
 
 
-
-
-
 
-
-
-
-
-
-
-
-
-
 
-	
-
-
-
-
-
-
-
-
-
 
 
-
+
 
 
 
 
-	
-
-
 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
-
-
-
-
-
-	
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -8280,6 +7982,304 @@ $
 	
 
 
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
 
 
 
@@ -8290,46 +8290,46 @@ $
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
+
+
+
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
+
+
+
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
+
+
+
 10
 Steam Tracing
 Table 3.6 Process Temperature Maintenance (°C) ...... IT, BT or BTS Tracers
@@ -8342,7 +8342,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 	
 
-
+
 
 
 
@@ -8370,7 +8370,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -8380,7 +8380,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -8391,7 +8391,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -8402,7 +8402,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
  
 !
@@ -8414,7 +8414,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -8426,7 +8426,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 #
 
-
+
 
 
 #
@@ -9372,7 +9372,177 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9384,176 +9554,6 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
 
 
 
@@ -9587,46 +9587,46 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
+
+
+
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
+
+
+
 
 	
-
-
-
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
+
+
+
 11
 DESIGN GUIDE
 Notes . . . Tables 3.7 and 3.8 are based on calcium silicate insulation and give approximate values for cellular glass and perlite. Tracers are 10
@@ -9643,7 +9643,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 	
 
-
+
 
 
 
@@ -9670,7 +9670,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -9680,7 +9680,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -9691,7 +9691,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -9702,7 +9702,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
  
 
@@ -9713,7 +9713,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 !
 
@@ -9724,7 +9724,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 !
 
 
-
+
 
  
 
@@ -9848,251 +9848,251 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 
 	
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 
 
-
-	
-
+
 
 
 
 
-
-
-
+
 
 
 
 
-
-
-
-
-
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
 
 
 
-
-
 
 
 
 
 
-
-
-
+
 
 
 
 
-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 
-
+
 
 
 
@@ -11190,7 +11190,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 	
 
-
+
 
 
 
@@ -11217,7 +11217,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -11227,7 +11227,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -11238,7 +11238,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 )
 
 
-
+
 
 
 *
@@ -11249,7 +11249,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
  
 
 
-
+
 
 !
 
@@ -11261,7 +11261,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 *
 
 
-
+
 
 
  
@@ -11273,7 +11273,7 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
@@ -11398,67 +11398,67 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 
 
 
 
-
-
+
+
 	
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 	
 
-
-
+
+
 
 
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 
 
-
-
+
+
 
 	
 
-
-
+
+
 
 
 
@@ -11469,28 +11469,28 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 	
 
-
+
 
 
 
@@ -11499,28 +11499,28 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 	
 
-
+
 
 
 
@@ -11529,28 +11529,28 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
 
-
+
 	
 
 
 
 
 
-
+
 
 
 
 
 	
 
-
+
 
 
 
@@ -11561,28 +11561,28 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 	
 
-
+
 
 
 
@@ -11591,28 +11591,28 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 	
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 	
 
-
+
 
 
 
@@ -11621,28 +11621,28 @@ Ambient Temperature: -18°C, Wind: 11 m/s, Insulation: Calcium Silicate
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
 
 	
 
-
+
 
 
 
@@ -12928,7 +12928,7 @@ $
 $
 
 	
-
+
 
 
 
@@ -12961,7 +12961,7 @@ $
 
 *
 
-
+
 $
 
 
@@ -13010,7 +13010,7 @@ $
 
 
 
-
+
 	
 
 
@@ -13025,13 +13025,13 @@ $
 
 
 
-
+
 
 
 
 
 
-
+
 	
 
 
@@ -13041,12 +13041,12 @@ $
 	
 
 
-
+
 
 
 
 
-
+
 
 
 
@@ -13056,12 +13056,12 @@ $
 
 
 
-
+
 
 
 
 
-
+
 
 
 
@@ -13075,15 +13075,15 @@ $
 
 
 	
-
+
 
 
-
+
 
 
 
 
-
+
 	
 
 
@@ -13093,13 +13093,13 @@ $
 
 
 
-
+
 
-
+
 
 
 
-
+
 
 
 
@@ -13109,13 +13109,13 @@ $
 
 
 
-
+
 
-
+
 
 
 
-
+
 
 
 
@@ -13133,12 +13133,12 @@ $
 
 
 
-
+
 
 
 
 
-
+
 	
 
 
@@ -13150,11 +13150,11 @@ $
 
 
 
-
+
 
 
 
-
+
 
 
 
@@ -13163,15 +13163,15 @@ $
 
 
 
-
+
 
 
-
+
 
 	
 
-
-
+
+
 
 
 
@@ -13182,7 +13182,7 @@ $
 
 
 
-
+
 
 
 
@@ -13192,11 +13192,11 @@ $
 
 
 
-
+
 
 
 
-
+
 	
 
 
@@ -13209,12 +13209,12 @@ $
 	
 
 
-
+
 
-
+
 
 
-
+
 
 
 
@@ -13226,12 +13226,12 @@ $
 
 
 
-
+
 
-
+
 
 
-
+
 
 
 
@@ -13256,7 +13256,7 @@ $
 
 
 
-
+
 	
 
 
@@ -13265,17 +13265,17 @@ $
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -13287,88 +13287,88 @@ $
 
 
 
-
+
 
 
-
+
 
 
-
-
-
-
-
-
-
-
-	
-
-
-
 
 
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 
 
-
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 
 
 
-
+
 
 
 
@@ -13380,10 +13380,10 @@ $
 
 
 
-
+
 
 
-
+
 
 
 
@@ -13404,28 +13404,28 @@ $
 
 
 
-
+
 
 
 
 
-
+
 
 
 
-
+
 
 
 
 
-
-
+
+
 
 
 
 
 
-
+
 	
 
 
@@ -13443,7 +13443,7 @@ $
 
 
 
-
+
 
 
 
@@ -13481,14 +13481,14 @@ $
 	
 
 
-
+
 
 
 
 
 
 
-
+
 	
 
 
@@ -13506,14 +13506,14 @@ $
 
 
 
-
+
 
 
 	
 
-
+
 
-
+
 
 
 
@@ -13537,21 +13537,21 @@ $
 
 
 
-
+
 
 
 
 
 
 
-
-
+
+
 	
 
 
 
 
-
+
 	
 
 
@@ -13569,7 +13569,7 @@ $
 
 
 
-
+
 
 
 
@@ -13590,7 +13590,7 @@ $
 
 
 
-
+
 
 
 
@@ -13601,167 +13601,167 @@ $
 
 
 
-
+
 
 
 
 
-
+
 
 	
 
 
 
 
-
+
 	
 
 
 
 
 
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-
-
-
-
-
-
 
 
 	
 
 
 
-
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
 
 
 
@@ -13781,17 +13781,17 @@ $
 
 	
 
-
+
 
 
-
+
 
 
 
 
 
 
-
+
 	
 
 
@@ -13805,7 +13805,7 @@ $
 
 
 
-
+
 
 
 
@@ -13837,7 +13837,7 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 	
 
-
+
 
 
 
@@ -13896,7 +13896,7 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 1
 
 
-
+
 %
 
 %
@@ -13947,21 +13947,21 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
 
 
 
@@ -13987,15 +13987,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14021,10 +14021,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14051,12 +14051,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -14074,11 +14074,11 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
 
-
+
 
 
 
@@ -14104,15 +14104,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14139,10 +14139,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14170,12 +14170,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -14193,10 +14193,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14222,15 +14222,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14256,10 +14256,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14289,12 +14289,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 	
-
+
 
-
+
 
 
 
@@ -14312,10 +14312,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14341,15 +14341,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14375,10 +14375,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14408,12 +14408,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 	
-
+
 
 
-
+
 
-
+
 
 
 
@@ -14431,10 +14431,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 	
-
+
 
 
 
@@ -14461,15 +14461,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14495,10 +14495,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14528,12 +14528,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 	
-
+
 
 
-
+
 
-
+
 
 
 
@@ -14552,10 +14552,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14582,15 +14582,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14616,10 +14616,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14653,12 +14653,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -14679,10 +14679,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14709,15 +14709,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14744,10 +14744,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14781,12 +14781,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -14807,10 +14807,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14836,15 +14836,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14869,10 +14869,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 	
-
+
 
 
-
+
 
 
 
@@ -14905,12 +14905,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -14932,10 +14932,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -14961,15 +14961,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -14994,10 +14994,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 	
-
+
 
 
-
+
 
 
 
@@ -15030,12 +15030,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -15058,10 +15058,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -15087,15 +15087,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -15120,10 +15120,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 	
-
+
 
 
-
+
 
 
 
@@ -15156,12 +15156,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -15185,10 +15185,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -15214,15 +15214,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -15247,10 +15247,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -15283,12 +15283,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -15311,10 +15311,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -15340,15 +15340,15 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
@@ -15372,10 +15372,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -15408,12 +15408,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -15436,10 +15436,10 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
@@ -15465,27 +15465,27 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
-
+
+
 
 
 
-
+
 
 
 
 
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
 
 
 
@@ -15518,12 +15518,12 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
-
+
 
 
 
@@ -15546,39 +15546,39 @@ Table 4.2 Insulation Material Adjustment Factors Process Temperature Change for 
 
 
 
-
+
 
 
-
+
 
 
 
 
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
 
 
 
-
+
 
 
 
 
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
 Note . . . These temperature adjustments are approximations only.
 15
 DESIGN GUIDE
@@ -15646,7 +15646,7 @@ held at 50°F (10°C) or above.
 	
 
 
-	
+	
 
 
 
@@ -15654,7 +15654,7 @@ held at 50°F (10°C) or above.
 
 
 
-
+
 
 
 
@@ -16834,16 +16834,16 @@ TSP0009.
 
 
 
-
+
 
 
 
 
-
+
 
 
 
-
+
 
 
 
@@ -16862,7 +16862,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -16900,18 +16900,18 @@ TSP0009.
 
 
 
-
+
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
@@ -16922,15 +16922,15 @@ TSP0009.
 
 
 
-
+
 
 
-
+
 
 
 
 
-
+
 
 	
 
@@ -16938,7 +16938,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -16946,7 +16946,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -16956,7 +16956,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -16965,7 +16965,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -16989,7 +16989,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -17008,7 +17008,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -17046,18 +17046,18 @@ TSP0009.
 
 
 
-
+
 
 
 
-
+
 
 
 
 
 
 
-
+
 
 
 
@@ -17066,7 +17066,7 @@ TSP0009.
 
 
 
-
+
 
 	
 
@@ -17076,7 +17076,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -17097,7 +17097,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -17108,7 +17108,7 @@ TSP0009.
 
 
 
-
+
 
 
 
@@ -17126,16 +17126,16 @@ TSP0009.
 
 	
 
-
+
 
 
 
-
+
 
 
 
 
-
+
 
 
 
@@ -17151,7 +17151,7 @@ TSP0009.
 	
 
 
-
+
 
 
 
@@ -17182,7 +17182,7 @@ TSP0009.
 	
 
 
-
+
 
 
 
@@ -17196,7 +17196,7 @@ TSP0009.
 	
 
 
-
+
 
 
 Table 5.3 Header Sizing
@@ -17385,7 +17385,7 @@ Properties of Saturated Steam (Inch-Pound, °F Units)
 	
 
 
-
+
 
 
 
@@ -17393,7 +17393,7 @@ Properties of Saturated Steam (Inch-Pound, °F Units)
 	
 
 
-
+
 
 
 
@@ -17423,7 +17423,7 @@ Properties of Saturated Steam (Inch-Pound, °F Units)
 	
 
 
-
+
 
 
 
@@ -17431,7 +17431,7 @@ Properties of Saturated Steam (Inch-Pound, °F Units)
 	
 
 
-
+
 
 
 
@@ -17452,7 +17452,7 @@ Properties of Saturated Steam (Inch-Pound, °F Units)
 
 
 
-
+
 
 
 
@@ -17462,7 +17462,7 @@ Properties of Saturated Steam (Inch-Pound, °F Units)
 
 
 
-
+
 
 
 
@@ -18899,12 +18899,12 @@ Properties of Saturated Steam (SI Metric Units)
 
 
 	
-
+
 
 
 
 
-
+
 
 
 
@@ -18939,12 +18939,12 @@ Properties of Saturated Steam (SI Metric Units)
 
 
 	
-
+
 
 
 
 
-
+
 
 
 
