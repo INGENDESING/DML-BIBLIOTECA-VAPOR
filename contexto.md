@@ -25,3 +25,7 @@ El creador del proyecto (Jonathan Arboleda) ha otorgado **permisos de alta indep
 1. **Acción Directa**: No necesitas detenerte a pedir permisos para tareas de mantenimiento rutinarias (ej. formatear un markdown, corregir enlaces rotos, mover notas, hacer commits menores). Ejecuta el comando o herramienta y luego simplemente presenta el resultado.
 2. **Proactividad**: Se espera que la IA optimice código (CSS/TS) en Quartz o mejore las estructuras de los documentos (Frontmatter, tags) de manera proactiva para mejorar la biblioteca.
 3. **Cero burocracia técnica**: En tareas repetitivas, reduce el diálogo al mínimo, enfócate en ejecutar y notificar el éxito o fracaso, garantizando eficiencia total.
+
+## Hitos Técnicos Importantes (Troubleshooting Histórico)
+- **Despliegue a Github Pages**: Se reemplazó el workflow por defecto de Quartz (`deploy-v5.yaml`) por uno diseñado específicamente para GitHub Pages (`deploy.yml`). Adicionalmente, se configuró un `index.md` en la raíz de `content/` que redirige a `000_Indice_Principal.md` para evitar errores 404 en el dominio raíz.
+- **Saneamiento de Archivos**: Los archivos Markdown generados a partir de PDFs (especialmente el `6.6 Control valve actuators and positioners.md`) presentaban caracteres ocultos (`\x0C`, símbolos repetitivos) que crasheaban el proceso de Build de Quartz. Estos fueron sanitizados mediante scripts. En futuras actualizaciones con PDFs, si Quartz falla al compilar, se debe repetir la sanitización.
