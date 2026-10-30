@@ -4,7 +4,11 @@
 
 ---
 
-## 2025 - Sesión: Plantillas Excel de hojas de datos (fase 1)
+## 2025 - Sesión: Reorganización de archivos y carpetas (meta /goal)
+- `content/Spirax Sarco/` → `content/08_Spirax_Sarco/` (convención numerada, sin espacios); encabezado actualizado en el Índice Principal. La bóveda queda secuencial 00-08.
+- Eliminada `docs/` (128 archivos de la plantilla Quartz, ajenos al proyecto; disponibles upstream).
+- `contexto.md` actualizado: estructura real 00-08 (antes listaba 98_Attachments/99_Templates inexistentes). `.vs/` ya estaba en `.gitignore`.
+- Build verde: 141 notas, exit 0, sin referencias rotas. Los wikilinks no se afectan porque resuelven por nombre de nota, no por carpeta.
 - Se creó `content/07_Hojas_de_Datos/` con dos plantillas genéricas de data sheet en Excel: **DS-CAL-001** (calentador tipo EasiHeat) y **DS-PRS-001** (estación reductora PRS), una pestaña por equipo con columnas Campo|Valor|Unidad|Nota y valores del caso 150→25 psig marcados como ejemplo.
 - Se generan con `scripts/generar_hojas_datos.py` (openpyxl) — reutilizable para nuevas plantillas. Sección "Identificación del documento" reservada para la **fase 2: formato corporativo (encabezado, portada, código)**.
 - Nota [[HojasDeDatos]] enlazada en índice principal y en [[CalentadorAgua]] / [[EstacionesReductoras]]. Build OK: 141 notas; los .xlsx se emiten a `public/` como descargables.

@@ -12,13 +12,15 @@
 
 ## Estructura de Carpetas (Bóveda de Obsidian / `content/` de Quartz)
 El contenido está indexado y estructurado de la siguiente forma:
-- `00_Meta`: Índices globales y Mapas de Contenido (ej. `000_Indice_Principal.md`).
+- `00_Meta`: Índices globales y Mapas de Contenido (ej. `000_Indice_Principal.md`), MOCs temáticos y bitácora de sesiones.
 - `01_Libro_del_Vapor`: Capítulos del 1 al 16.
 - `02_Manuales_Spirax`: Manuales técnicos generales.
 - `03_TLV_Valvulas`: Documentación de válvulas TLV.
 - `04_Trazadores_Vapor`: Información sobre trazado de tuberías.
-- `98_Attachments`: Recursos multimedia (imágenes, adjuntos).
-- `99_Templates`: Plantillas de notas estandarizadas.
+- `05_Calentadores_Agua`: Investigación de calentadores instantáneos vapor-agua.
+- `06_Estaciones_Reductoras`: Investigación de estaciones reductoras de presión (PRS).
+- `07_Hojas_de_Datos`: Plantillas Excel de data sheets (generadas con `scripts/generar_hojas_datos.py`).
+- `08_Spirax_Sarco`: Casos de aplicación (loop vapor/condensado).
 
 ## Autonomía e Independencia de la IA (Gemini)
 El creador del proyecto (Jonathan Arboleda) ha otorgado **permisos de alta independencia** a la IA en este repositorio:
