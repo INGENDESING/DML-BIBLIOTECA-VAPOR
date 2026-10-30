@@ -2,6 +2,17 @@
 
 Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 
+## 🗺️ Mapas Temáticos (cruzan colecciones)
+- [[MOC_Generacion_y_Energia]] — Calderas, principios y consumo energético
+- [[MOC_Ciclo_Condensado]] — Loop vapor/condensado, distribución y recuperación
+- [[MOC_Trampas_y_Trazadores]] — Steam traps y steam tracing
+- [[MOC_Control_y_Valvulas]] — Control, válvulas e instrumentación
+
+## 🧠 Memoria del Proyecto
+- [[999_Memoria_Sesiones]] — Bitácora de sesiones de IA (contexto persistente)
+
+## Índice por colección
+
 ## 01_Libro_del_Vapor\1 Introduction
 - [[1.1 Steam, the energy fluid]]
 - [[1.2 Steam and the organization]]

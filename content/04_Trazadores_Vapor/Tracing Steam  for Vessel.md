@@ -87,3 +87,7 @@ m (2 ft); 1.22 m (4 ft); and 2.44 m (8 ft). Special lengths
 of 0.91 m (3 ft) and 1.83 m (6 ft) are available upon 
 request, as are special widths of 0.3 m (1 ft).
 Unit
+
+
+---
+🏠 Volver al [[000_Indice_Principal|Índice Principal]]

@@ -330,3 +330,7 @@ La configuración de la trampa bridada en tamaños 32-50 es la misma que
 la roscada en tamaños 32-50 
 Productos hechos solamente para el uso previsto.
 1 bar = 0,1 MPa
+
+
+---
+🏠 Volver al [[000_Indice_Principal|Índice Principal]]
