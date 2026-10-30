@@ -4,7 +4,9 @@
 
 ---
 
-## 2025 - Sesión: README como mapa del proyecto
+## 2025 - Sesión: baseUrl y locale del sitio corregidos
+- `quartz.config.yaml`: `baseUrl` era el default `quartz.jzhao.xyz` → ahora `ingendesing.github.io/DML-BIBLIOTECA-VAPOR` (sitemap/canónicos correctos); `locale` de `en-US` → `es-ES` (interfaz en español).
+- URL del sitio confirmada en línea: https://ingendesing.github.io/DML-BIBLIOTECA-VAPOR/
 - El README.md era la plantilla por defecto de Quartz; se reescribió en español como mapa del repo: tabla de carpetas del proyecto (`content/00`-`08`, incluida `07_Hojas_de_Datos` con los data sheets), framework Quartz (no tocar) y comandos básicos.
 - Motivo: el usuario no ubicaba la carpeta de hojas de datos desde la raíz (vive en `content/07_Hojas_de_Datos/`).
 - `content/Spirax Sarco/` → `content/08_Spirax_Sarco/` (convención numerada, sin espacios); encabezado actualizado en el Índice Principal. La bóveda queda secuencial 00-08.
