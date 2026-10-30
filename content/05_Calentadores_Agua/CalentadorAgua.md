@@ -141,7 +141,29 @@ Basado en la teoría de la bóveda ([[2.10 Heating with coils and jackets]], [[2
 5. **Calidad del agua**: incrustaciones reducen transferencia; en agua dura evaluar tratamiento ([[3.9 Water treatment, storage & blowdown for steam boilers]]).
 6. **Sanitario (DHW)**: preferir instantáneo o semi-instantáneo para mitigar Legionella vs. tanques de almacenamiento.
 
-## 8. Relación con la bóveda
+## 8. Modelos 3D CAD / BIM descargables
+
+Fuentes para descargar modelos 3D (STEP, DWG, STL) y familias BIM (Revit, ArchiCAD, SketchUp) de los equipos investigados:
+
+| Fabricante / Equipo | Portal | Formatos | Enlace |
+|---|---|---|---|
+| Spirax Sarco EasiHeat Packages | TraceParts (biblioteca oficial Spirax) | STEP, STL, DWG, SOLIDWORKS, Inventor, Creo, CATIA, Solid Edge, AutoCAD, Revit (60+ formatos, gratis) | [traceparts.com](https://www.traceparts.com) — buscar "EasiHeat Packages" |
+| Spirax Sarco (general) | 3D ContentCentral | SOLIDWORKS, STEP, IGES | [3dcontentcentral.com](https://www.3dcontentcentral.com) — proveedor "Spirax Sarco" |
+| Spirax Sarco (general) | Biblioteca 3D oficial Spirax (hosteada en TraceParts) | 60+ formatos | [spiraxsarco.com — New 3D CAD Model Library](https://www.spiraxsarco.com) |
+| Armstrong Digital-Flo® (vapor/agua, shell, doble pared) | BIMobject | Revit, SketchUp, ArchiCAD, Vectorworks (gratis) | [bimobject.com — Armstrong International](https://www.bimobject.com) |
+| Armstrong (trampas, calentadores) | 3Dfindit | Múltiples formatos CAD nativos y neutros | [3dfindit.com — Armstrong International](https://www.3dfindit.com) |
+| Armstrong Fluid Technology | Generador CAD propio: dibujos 2D/3D de ensambles por email | DWG, STEP | [armstrongfluidtechnology.com/resources](https://armstrongfluidtechnology.com/en/resources-and-tools/all-resources-and-tools) |
+| AERCO (calentadores y generadores de agua caliente) | BIMobject | Revit, SketchUp, ArchiCAD, Vectorworks | [bimobject.com/en-us/aerco](https://www.bimobject.com/en-us/aerco?location=us) |
+| Cemline (serie SSH, SEH, SWH) | Sitio oficial Cemline — sección "3D Drawings" | .zip con formato .adsk (Autodesk) | [cemline.com](https://cemline.com) |
+| TLV SteamAqua | TLV no publica STEP libre; dimensional drawings en la hoja SDS y bajo registro en tlv.com | DXF/PDF dimensional | [tlv.com — SteamAqua](https://www.tlv.com/products/water-heaters/steamaqua-sq246) |
+| Genéricos (calentadores, HVAC) | GrabCAD, 3Dfindit, BIMobject, BIMLibraryHub | STEP, STL, Revit | [grabcad.com](https://grabcad.com), [3dfindit.com](https://www.3dfindit.com) |
+
+**Notas de uso:**
+- TraceParts, 3Dfindit, BIMobject y 3D ContentCentral requieren cuenta gratuita para descargar.
+- Para integración en planta (layout), los modelos de TraceParts/3Dfindit sirven en CAD mecánico; para proyectos de edificación usar las familias Revit de BIMobject o Cemline.
+- Verificar siempre la revisión del modelo contra el datasheet vigente del fabricante antes de diseñar conexiones.
+
+## 9. Relación con la bóveda
 
 - Teoría de calentamiento: [[2.10 Heating with coils and jackets]], [[2.11 Heating vats and tanks by steam injection]], [[2.13 Steam consumption of heat exchangers]]
 - Intercambiadores y stall: [[13.1 Heat exchangers and stall]] y capítulo 13 completo

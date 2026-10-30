@@ -4,6 +4,10 @@
 
 ---
 
+## 2025 - Sesión: Fuentes CAD 3D calentadores
+- Se agregó sección "Modelos 3D CAD / BIM descargables" a [[CalentadorAgua]]: TraceParts (EasiHeat), BIMobject (Armstrong, AERCO), 3Dfindit, Cemline 3D Drawings, portales genéricos.
+- Build Quartz OK.
+
 ## 2025 - Sesión: Investigación calentadores de agua
 - Se creó `content/05_Calentadores_Agua/CalentadorAgua.md`: investigación web de calentadores instantáneos vapor-agua (Spirax EasiHeat, TLV SteamAqua, Armstrong Digital-Flo/Flo-Rite, AERCO, Cemline, PVI) con capacidades, specs, tabla comparativa y fuentes.
 - Enlazado en [[000_Indice_Principal]] y [[MOC_Generacion_y_Energia]]. Build Quartz OK: 139 notas.
