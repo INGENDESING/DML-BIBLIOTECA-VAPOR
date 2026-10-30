@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Biblioteca de Ingeniería de Vapor
-  pageTitleSuffix: ""
+  pageTitle: DML Biblioteca de Vapor
+  pageTitleSuffix: " | DML Ingenieros Consultores"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -21,24 +21,24 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f8fafc"
+        lightgray: "#e2e8f0"
+        gray: "#94a3b8"
+        darkgray: "#334155"
+        dark: "#0f172a"
+        secondary: "#1b365d"
+        tertiary: "#d97706"
+        highlight: rgba(27, 54, 93, 0.08)
+        textHighlight: "#fef08a88"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#0f172a"
+        lightgray: "#1e293b"
+        gray: "#64748b"
+        darkgray: "#cbd5e1"
+        dark: "#f8fafc"
+        secondary: "#60a5fa"
+        tertiary: "#f59e0b"
+        highlight: rgba(96, 165, 250, 0.14)
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -203,8 +203,9 @@ plugins:
     enabled: true
     options:
       links:
-        "Autor: Jonathan Arboleda": "https://github.com/JonathanArboleda"
-        "Desplegado con Quartz": "https://quartz.jzhao.xyz/"
+        "DML Ingenieros Consultores": "https://ingendesing.github.io/DML-BIBLIOTECA-VAPOR/"
+        "Índice Principal": "https://ingendesing.github.io/DML-BIBLIOTECA-VAPOR/00_Meta/000_Indice_Principal"
+        "Autor: Jonathan Arboleda": "https://github.com/INGENDESING"
     layout:
       position: footer
       priority: 50
@@ -231,7 +232,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

@@ -1,91 +1,83 @@
-# Índice Principal (MOC)
+---
+title: Índice Maestro — Biblioteca de Ingeniería de Vapor DML
+description: Catálogo maestro estructurado de los 141 documentos técnicos, manuales, investigaciones y hojas de datos de DML Ingenieros Consultores.
+---
 
-Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
+<div class="dml-hero">
+<span class="dml-hero-kicker">DML INGENIEROS CONSULTORES · CATÁLOGO MAESTRO</span>
+<h2>Índice General de la Biblioteca de Ingeniería de Vapor</h2>
+<p>Directorio completo y ordenado lógicamente por etapa del proceso térmico (Capítulos 1 al 16 del Libro del Vapor, manuales de fabricantes Spirax Sarco y TLV, trazadores, investigaciones DML y hojas de datos).</p>
+</div>
 
-## 🗺️ Mapas Temáticos (cruzan colecciones)
-- [[MOC_Generacion_y_Energia]] — Calderas, principios y consumo energético
-- [[MOC_Ciclo_Condensado]] — Loop vapor/condensado, distribución y recuperación
-- [[MOC_Trampas_y_Trazadores]] — Steam traps y steam tracing
-- [[MOC_Control_y_Valvulas]] — Control, válvulas e instrumentación
+## 🗺️ Mapas de Contenido Temáticos (MOCs) y Entregables DML
 
-## 🧠 Memoria del Proyecto
-- [[999_Memoria_Sesiones]] — Bitácora de sesiones de IA (contexto persistente)
+<div class="dml-grid">
 
-## Índice por colección
+<div class="dml-card">
 
-## 01_Libro_del_Vapor\1 Introduction
+<span class="dml-badge">MOC 01</span>
+
+### 🔥 Generación y Energía
+- [[MOC_Generacion_y_Energia|Abrir Mapa de Generación y Calderas]]
+- [[CalentadorAgua|Investigación: Calentadores de Agua]]
+
+</div>
+
+<div class="dml-card">
+
+<span class="dml-badge">MOC 02</span>
+
+### ♻️ Ciclo y Condensado
+- [[MOC_Ciclo_Condensado|Abrir Mapa de Ciclo de Condensado]]
+- [[Loop de Vapor & Condensado - 2015  Colgate|Caso Industrial: Loop Vapor/Condensado]]
+
+</div>
+
+<div class="dml-card">
+
+<span class="dml-badge">MOC 03</span>
+
+### 💧 Trampas y Trazadores
+- [[MOC_Trampas_y_Trazadores|Abrir Mapa de Trampas y Trazado]]
+- [[Steam Tracing Guide Line|Guía de Diseño de Trazadores]]
+
+</div>
+
+<div class="dml-card">
+
+<span class="dml-badge amber">MOC 04 + Data Sheets</span>
+
+### 🎛️ Control, PRS y Hojas de Datos
+- [[MOC_Control_y_Valvulas|Abrir Mapa de Control y Válvulas]]
+- [[EstacionesReductoras|Investigación: Estaciones Reductoras (PRS)]]
+- [[HojasDeDatos|Plantillas Excel: DS-CAL-001 y DS-PRS-001]]
+
+</div>
+
+</div>
+
+---
+
+## 🛠️ Investigaciones y Entregables de Ingeniería DML (`05` – `08`)
+
+| Colección | Documento / Activo | Especialidad |
+|---|---|---|
+| `05_Calentadores_Agua` | [[CalentadorAgua]] | Calentadores instantáneos vapor-agua (EasiHeat, SteamAqua, Armstrong, AERCO) + CAD 3D |
+| `06_Estaciones_Reductoras` | [[EstacionesReductoras]] | Estaciones reductoras de presión (PRS), caso 150 → 25 psig, válvulas pilotadas + CAD 3D |
+| `07_Hojas_de_Datos` | [[HojasDeDatos]] | Hojas de datos en Excel (`DS-CAL-001` y `DS-PRS-001`) listas para proyectos DML |
+| `08_Spirax_Sarco` | [[Loop de Vapor & Condensado - 2015  Colgate]] | Caso práctico integral de planta (loop de vapor y retorno de condensado) |
+
+---
+
+## 📘 01. Libro del Vapor (Orden Lógico Capítulos 1 al 16)
+
+### Capítulo 1 — Introducción al Sistema de Vapor
 - [[1.1 Steam, the energy fluid]]
 - [[1.2 Steam and the organization]]
 - [[1.3 The steam and condensate loop]]
 
-## 01_Libro_del_Vapor\10 Steam Distribution
-- [[10.1 Introduction]]
-- [[10.2 Pipes and pipe sizing]]
-- [[10.3 Steam mains and drainage]]
-- [[10.4 Pipe expansion and support]]
-- [[10.5 Air venting, heat losses and a summary of various pipe related standards]]
-
-## 01_Libro_del_Vapor\11 Steam Trapping
-- [[11.1 Introduction, why steam traps]]
-- [[11.10 Selecting steam traps (space heating equipment)]]
-- [[11.11 Selecting steam traps (steam mains, tanks and vats, pressure reducing valves)]]
-- [[11.12 Air venting theory]]
-- [[11.13 Air venting applications]]
-- [[11.14 Testing and maintenance of steam traps]]
-- [[11.15 Energy losses in steam traps]]
-- [[11.2 Thermostatic steam traps]]
-- [[11.3 Mechanical steam traps]]
-- [[11.4 Thermodynamic steam traps]]
-- [[11.5 Considerations for selecting steam traps]]
-- [[11.6 Selecting steam traps (canteen equipment,oil transfer storage, hospital equipment)]]
-- [[11.7 Selecting steam traps (industrial dryers)]]
-- [[11.8 Selecting steam traps (laundries, presses)]]
-- [[11.9 Selecting steam traps (process equipment)]]
-
-## 01_Libro_del_Vapor\12 Pipeline Ancillaries
-- [[12.1 Isolation valves (linear movement)]]
-- [[12.2 Isolation valves (rotary movement)]]
-- [[12.3 Check valves]]
-- [[12.4 Strainers]]
-- [[12.5 Separators]]
-- [[12.6 Gauges, sight glasses, vacuum breakers]]
-
-## 01_Libro_del_Vapor\13 Condensate Removal
-- [[13.1 Heat exchangers and stall]]
-- [[13.2 The heat load, heat exchanger and steam load relationship]]
-- [[13.3 Oversized heat exchangers]]
-- [[13.4 Example, selecting the trap]]
-- [[13.5 The stall chart (constant flow, varying inlet temperature)]]
-- [[13.6 The stall chart (varying flow, constant inlet temperature)]]
-- [[13.7 The stall chart (constant flow, varying outlet temperature)]]
-- [[13.8 Practical methods of preventing stall]]
-
-## 01_Libro_del_Vapor\14 Condensate Recovery
-- [[14.1 Introduction to condensate recovery]]
-- [[14.2 Layout of condensate return lines]]
-- [[14.3 Sizing condensate retrun lines]]
-- [[14.4 Pumping condensate from vented receivers]]
-- [[14.5 Lifting condensate and contaminated condensate]]
-- [[14.6 Flash steam]]
-
-## 01_Libro_del_Vapor\15 Desuperheating
-- [[15.1 Basic desuperheating theory]]
-- [[15.2 basic desuperheater types]]
-- [[15.3 Other types of desuperheaters]]
-- [[15.4 Typical installations]]
-
-## 01_Libro_del_Vapor\16 Equations
-- [[16.1 Equations]]
-
-## 01_Libro_del_Vapor\2 Steam Eng. Principles
+### Capítulo 2 — Principios de Ingeniería del Vapor y Transferencia de Calor
 - [[2.1 Engineering units]]
-- [[2.10 Heating with coils and jackets]]
-- [[2.11 Heating vats and tanks by steam injection]]
-- [[2.12 Steam consumption of pipes and air heaters]]
-- [[2.13 Steam consumption of heat exchangers]]
-- [[2.14 Steam consumption of other plant items]]
-- [[2.15 Entropy, a basic understanding]]
-- [[2.16 Entropy, its practical use]]
 - [[2.2 What is steam]]
 - [[2.3 Superheated steam]]
 - [[2.4 Steam quality]]
@@ -94,9 +86,24 @@ Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 - [[2.7 Measurement of steam consumption]]
 - [[2.8 Thermal rating]]
 - [[2.9 Energy consumption in tanks and vats]]
+- [[2.10 Heating with coils and jackets]]
+- [[2.11 Heating vats and tanks by steam injection]]
+- [[2.12 Steam consumption of pipes and air heaters]]
+- [[2.13 Steam consumption of heat exchangers]]
+- [[2.14 Steam consumption of other plant items]]
+- [[2.15 Entropy, a basic understanding]]
+- [[2.16 Entropy, its practical use]]
 
-## 01_Libro_del_Vapor\3 The Boiler House
+### Capítulo 3 — Sala de Calderas y Tratamiento de Agua
 - [[3.1 Introduction]]
+- [[3.2 Shell boilers]]
+- [[3.3 Water-tube boilers]]
+- [[3.4 Misc boiler types, econom and superheaters]]
+- [[3.5 Boiler ratings]]
+- [[3.6 Boiler efficiency and combustion]]
+- [[3.7 Boliers fittings and mountings]]
+- [[3.8 Steam headers and off-takes]]
+- [[3.9 Water treatment, storage & blowdown for steam boilers]]
 - [[3.10 Water for the boiler]]
 - [[3.11 The feed tank and feedwater conditioning]]
 - [[3.12 Controlling TDS in the boiler water]]
@@ -107,26 +114,18 @@ Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 - [[3.17 Automatic level control systems]]
 - [[3.18 Water level alarms]]
 - [[3.19 Installation of level controls]]
-- [[3.2 Shell boilers]]
 - [[3.20 Testing requirements in the boiler house]]
 - [[3.21 Pressurized deaerators]]
 - [[3.22 Steam accumulators]]
-- [[3.3 Water-tube boilers]]
-- [[3.4 Misc boiler types, econom and superheaters]]
-- [[3.5 Boiler ratings]]
-- [[3.6 Boiler efficiency and combustion]]
-- [[3.7 Boliers fittings and mountings]]
-- [[3.8 Steam headers and off-takes]]
-- [[3.9 Water treatment, storage & blowdown for steam boilers]]
 
-## 01_Libro_del_Vapor\4 Flowmetering
+### Capítulo 4 — Medición de Flujo (Flowmetering)
 - [[4.1 Fluids and flow]]
 - [[4.2 Principles of flowmetering]]
 - [[4.3 Types of stam flowmeter]]
 - [[4.4 Instrumentation]]
 - [[4.5 Installation]]
 
-## 01_Libro_del_Vapor\5 Basic Control Theory
+### Capítulo 5 — Teoría Básica de Control
 - [[5.1 An introduction to controls]]
 - [[5.2 Control theory]]
 - [[5.3 Control loops and dynamics]]
@@ -134,7 +133,7 @@ Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 - [[5.5 Installation and commisioning of controls]]
 - [[5.6 Computers in control]]
 
-## 01_Libro_del_Vapor\6 Control Hardware E P actuation
+### Capítulo 6 — Hardware de Control: Actuación Eléctrica y Neumática
 - [[6.1 Control valves]]
 - [[6.2 Control valve capacity]]
 - [[6.3 Control valve sizing for water systems]]
@@ -143,18 +142,18 @@ Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 - [[6.6 Control valve actuators and positioners]]
 - [[6.7 Controllers and sensors]]
 
-## 01_Libro_del_Vapor\7 Control Hardware S A actuation
+### Capítulo 7 — Hardware de Control: Controles Auto-Actuados
 - [[7.1 Self-acting temperature controls introduction]]
 - [[7.2 typical SA temperature control valves and systems]]
 - [[7.3 SA pressure controls and applications]]
 
-## 01_Libro_del_Vapor\8 Control Applications
+### Capítulo 8 — Aplicaciones de Control en Vapor
 - [[8.1 Pressure control applications]]
 - [[8.2 Temperature control for steam applications]]
 - [[8.3 Level and flow control applications]]
 - [[8.4 Control installations]]
 
-## 01_Libro_del_Vapor\9 Safety Valves
+### Capítulo 9 — Válvulas de Seguridad
 - [[9.1 Introduction to safety valves]]
 - [[9.2 Types of safety valves]]
 - [[9.3 Safety valve selection]]
@@ -162,11 +161,74 @@ Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 - [[9.5 Safety valve installation]]
 - [[9.6 Alternative plant protection...]]
 
-## 02_Manuales_Spirax
-- [[HookUp]]
-- [[Steam]]
+### Capítulo 10 — Distribución de Vapor
+- [[10.1 Introduction]]
+- [[10.2 Pipes and pipe sizing]]
+- [[10.3 Steam mains and drainage]]
+- [[10.4 Pipe expansion and support]]
+- [[10.5 Air venting, heat losses and a summary of various pipe related standards]]
 
-## 03_TLV_Valvulas
+### Capítulo 11 — Trampas de Vapor (Steam Trapping)
+- [[11.1 Introduction, why steam traps]]
+- [[11.2 Thermostatic steam traps]]
+- [[11.3 Mechanical steam traps]]
+- [[11.4 Thermodynamic steam traps]]
+- [[11.5 Considerations for selecting steam traps]]
+- [[11.6 Selecting steam traps (canteen equipment,oil transfer storage, hospital equipment)]]
+- [[11.7 Selecting steam traps (industrial dryers)]]
+- [[11.8 Selecting steam traps (laundries, presses)]]
+- [[11.9 Selecting steam traps (process equipment)]]
+- [[11.10 Selecting steam traps (space heating equipment)]]
+- [[11.11 Selecting steam traps (steam mains, tanks and vats, pressure reducing valves)]]
+- [[11.12 Air venting theory]]
+- [[11.13 Air venting applications]]
+- [[11.14 Testing and maintenance of steam traps]]
+- [[11.15 Energy losses in steam traps]]
+
+### Capítulo 12 — Accesorios de Tubería (Pipeline Ancillaries)
+- [[12.1 Isolation valves (linear movement)]]
+- [[12.2 Isolation valves (rotary movement)]]
+- [[12.3 Check valves]]
+- [[12.4 Strainers]]
+- [[12.5 Separators]]
+- [[12.6 Gauges, sight glasses, vacuum breakers]]
+
+### Capítulo 13 — Remoción de Condensado e Intercambiadores (Stall)
+- [[13.1 Heat exchangers and stall]]
+- [[13.2 The heat load, heat exchanger and steam load relationship]]
+- [[13.3 Oversized heat exchangers]]
+- [[13.4 Example, selecting the trap]]
+- [[13.5 The stall chart (constant flow, varying inlet temperature)]]
+- [[13.6 The stall chart (varying flow, constant inlet temperature)]]
+- [[13.7 The stall chart (constant flow, varying outlet temperature)]]
+- [[13.8 Practical methods of preventing stall]]
+
+### Capítulo 14 — Recuperación de Condensado y Vapor Flash
+- [[14.1 Introduction to condensate recovery]]
+- [[14.2 Layout of condensate return lines]]
+- [[14.3 Sizing condensate retrun lines]]
+- [[14.4 Pumping condensate from vented receivers]]
+- [[14.5 Lifting condensate and contaminated condensate]]
+- [[14.6 Flash steam]]
+
+### Capítulo 15 — Desrecalentamiento (Desuperheating)
+- [[15.1 Basic desuperheating theory]]
+- [[15.2 basic desuperheater types]]
+- [[15.3 Other types of desuperheaters]]
+- [[15.4 Typical installations]]
+
+### Capítulo 16 — Ecuaciones y Fórmulas de Ingeniería
+- [[16.1 Equations]]
+
+---
+
+## 📙 02 – 04. Manuales de Fabricantes y Guías de Trazado
+
+### 02_Manuales_Spirax (Spirax Sarco)
+- [[HookUp]] — Diagramas típicos de instalación (*Hook-Ups*)
+- [[Steam]] — Tablas y manual técnico de vapor
+
+### 03_TLV_Valvulas (TLV)
 - [[65395-sa]]
 - [[Trampa termodinamica para trazadores]]
 - [[Trampa termodinamica para trazadores Manual]]
@@ -176,20 +238,12 @@ Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 - [[e-pamphlet-080201-hp]]
 - [[e-ss1nh-hp]]
 
-## 04_Trazadores_Vapor
+### 04_Trazadores_Vapor (Steam Tracing)
 - [[Overview Tracing System]]
 - [[Steam Tracing Guide Line]]
 - [[Tracing Steam  for Vessel]]
 
-## 05_Calentadores_Agua
-- [[CalentadorAgua]]
+---
 
-## 06_Estaciones_Reductoras
-- [[EstacionesReductoras]]
-
-## 07_Hojas_de_Datos
-- [[HojasDeDatos]]
-
-## 08_Spirax_Sarco
-- [[Loop de Vapor & Condensado - 2015  Colgate]]
-
+## 🧠 Memoria del Proyecto
+- [[999_Memoria_Sesiones]] — Bitácora técnica de sesiones (contexto persistente)

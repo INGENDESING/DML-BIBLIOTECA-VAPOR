@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-10-30 - Sesión: Portal Web Corporativo DML Ingenieros Consultores + Control de Acceso
+- **Identidad y UI (`quartz.config.yaml`, `quartz/styles/custom.scss`)**: Rediseño visual corporativo de **DML Ingenieros Consultores** (paleta azul acero `#1b365d` y ámbar térmico `#d97706`, barra superior corporativa `.dml-topbar`, tarjetas `.dml-card`, métricas `.dml-stats` y tablas estilizadas).
+- **Control de acceso común (`quartz/components/Body.tsx`)**: Implementado portal de ingreso corporativo (`#dml-access-gate`) para empleados y clientes de DML con código común (`DML2026` / `DML-VAPOR`), persistencia en `localStorage` y botón de bloqueo rápido.
+- **Portada e Índice Maestro (`content/index.md`, `000_Indice_Principal.md`)**: Dashboard con diagrama Mermaid del ciclo de vapor, tarjetas interactivas por módulo (01–06), tabla de entregables/Data Sheets (`DS-CAL-001`, `DS-PRS-001`) y capítulos 1–16 ordenados lógicamente.
+- **Verificación**: `npx quartz build` exitoso (`exit 0`, 141 notas procesadas, 431 archivos emitidos).
+
 ## 2025 - Sesión: sitio caído (404 total) por workflow en conflicto
 - **Causa raíz**: `.github/workflows/static.yml` (plantilla default de GitHub Pages) subía el repo crudo (`path: '.'`) sin compilar Quartz, compitiendo con `deploy.yml` en el mismo concurrency group "pages". Cuando ganaba la carrera, el sitio quedaba sin `index.html` → 404 en todas las páginas.
 - **Fix**: eliminado `static.yml`. Solo `deploy.yml` (compila Quartz y sube `public/`) debe existir. Si GitHub vuelve a sugerir "Static HTML" en Settings → Pages, no activarlo.
