@@ -4,7 +4,10 @@
 
 ---
 
-## 2025 - Sesión: baseUrl y locale del sitio corregidos
+## 2025 - Sesión: sitio caído (404 total) por workflow en conflicto
+- **Causa raíz**: `.github/workflows/static.yml` (plantilla default de GitHub Pages) subía el repo crudo (`path: '.'`) sin compilar Quartz, compitiendo con `deploy.yml` en el mismo concurrency group "pages". Cuando ganaba la carrera, el sitio quedaba sin `index.html` → 404 en todas las páginas.
+- **Fix**: eliminado `static.yml`. Solo `deploy.yml` (compila Quartz y sube `public/`) debe existir. Si GitHub vuelve a sugerir "Static HTML" en Settings → Pages, no activarlo.
+- Verificado tras push: raíz y enlaces a temas responden 200.
 - `quartz.config.yaml`: `baseUrl` era el default `quartz.jzhao.xyz` → ahora `ingendesing.github.io/DML-BIBLIOTECA-VAPOR` (sitemap/canónicos correctos); `locale` de `en-US` → `es-ES` (interfaz en español).
 - URL del sitio confirmada en línea: https://ingendesing.github.io/DML-BIBLIOTECA-VAPOR/
 - El README.md era la plantilla por defecto de Quartz; se reescribió en español como mapa del repo: tabla de carpetas del proyecto (`content/00`-`08`, incluida `07_Hojas_de_Datos` con los data sheets), framework Quartz (no tocar) y comandos básicos.
