@@ -166,6 +166,7 @@ Fuentes para descargar modelos 3D (STEP, DWG, STL) y familias BIM (Revit, ArchiC
 ## 9. Relación con la bóveda
 
 - Estación reductora para alimentar el calentador (150→25 psig): [[EstacionesReductoras]]
+- Hoja de datos en Excel (DS-CAL-001): [[HojasDeDatos]]
 
 - Teoría de calentamiento: [[2.10 Heating with coils and jackets]], [[2.11 Heating vats and tanks by steam injection]], [[2.13 Steam consumption of heat exchangers]]
 - Intercambiadores y stall: [[13.1 Heat exchangers and stall]] y capítulo 13 completo

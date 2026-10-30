@@ -4,7 +4,11 @@
 
 ---
 
-## 2025 - CIERRE DE SESIÓN (estado consolidado)
+## 2025 - Sesión: Plantillas Excel de hojas de datos (fase 1)
+- Se creó `content/07_Hojas_de_Datos/` con dos plantillas genéricas de data sheet en Excel: **DS-CAL-001** (calentador tipo EasiHeat) y **DS-PRS-001** (estación reductora PRS), una pestaña por equipo con columnas Campo|Valor|Unidad|Nota y valores del caso 150→25 psig marcados como ejemplo.
+- Se generan con `scripts/generar_hojas_datos.py` (openpyxl) — reutilizable para nuevas plantillas. Sección "Identificación del documento" reservada para la **fase 2: formato corporativo (encabezado, portada, código)**.
+- Nota [[HojasDeDatos]] enlazada en índice principal y en [[CalentadorAgua]] / [[EstacionesReductoras]]. Build OK: 141 notas; los .xlsx se emiten a `public/` como descargables.
+- Pendiente: fase 2 de formato cuando el usuario entregue el encabezado/plantilla corporativa.
 - **Sistema de memoria activo**: skill `memoria-boveda`, bootstrap `inicializar.md` (raíz), 4 MOCs temáticos en `00_Meta/`. Para la próxima sesión basta decir "ejecuta inicializar.md".
 - **Investigaciones creadas**: [[CalentadorAgua]] (`05_Calentadores_Agua/`) y [[EstacionesReductoras]] (`06_Estaciones_Reductoras/`), ambas con fuentes web y portales CAD 3D. Formato de investigación: frontmatter + secciones numeradas + tablas + fuentes por sección + backlink.
 - **Decisiones técnicas clave**: calentador de agua 25→65 °C → vapor recomendado 15 psig; caldera 150 psig → calentador 25 psig requiere PRS de una etapa (relación 6:1) con PRV pilotada (Spirax 25P o TLV COS-16) + safety en baja obligatoria.

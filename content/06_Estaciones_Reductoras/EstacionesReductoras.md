@@ -155,6 +155,7 @@ Caso real del proyecto (alimentar un calentador instantáneo de agua, ver [[Cale
 - Componentes de la estación: [[12.4 Strainers]], [[12.5 Separators]], [[12.1 Isolation valves (linear movement)]]
 - Drenaje y trampas: [[10.3 Steam mains and drainage]], [[MOC_Trampas_y_Trazadores]]
 - Aplicación real: [[CalentadorAgua]] (estación 150→25 psig)
+- Hoja de datos en Excel (DS-PRS-001): [[HojasDeDatos]]
 - Ejemplo de trampa para PRV: [[11.11 Selecting steam traps (steam mains, tanks and vats, pressure reducing valves)]]
 
 ## 10. Fuentes generales
