@@ -4,6 +4,10 @@
 
 ---
 
+## 2025 - Sesión: Investigación calentadores de agua
+- Se creó `content/05_Calentadores_Agua/CalentadorAgua.md`: investigación web de calentadores instantáneos vapor-agua (Spirax EasiHeat, TLV SteamAqua, Armstrong Digital-Flo/Flo-Rite, AERCO, Cemline, PVI) con capacidades, specs, tabla comparativa y fuentes.
+- Enlazado en [[000_Indice_Principal]] y [[MOC_Generacion_y_Energia]]. Build Quartz OK: 139 notas.
+
 ## 2025 - Sesión: Sistema de memoria y enlazado
 - Se creó el sistema de memoria persistente: skill `memoria-boveda`, `inicializar.md` en raíz y esta bitácora.
 - Se agregaron backlinks al [[000_Indice_Principal]] en las 131 notas de contenido.

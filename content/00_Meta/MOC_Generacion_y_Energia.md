@@ -52,5 +52,6 @@ Mapa temático de principios de ingeniería, sala de calderas y consumo energét
 ## Relacionados
 - Distribución y condensado → [[MOC_Ciclo_Condensado]]
 - Eficiencia en trampas: [[11.15 Energy losses in steam traps]]
+- Calentadores instantáneos de agua (investigación): [[CalentadorAgua]]
 
 🏠 Volver al [[000_Indice_Principal|Índice Principal]]
