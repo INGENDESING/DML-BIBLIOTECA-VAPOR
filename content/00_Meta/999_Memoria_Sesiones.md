@@ -4,6 +4,11 @@
 
 ---
 
+## 2025 - Sesión: Investigación estaciones reductoras de vapor
+- Se creó `content/06_Estaciones_Reductoras/EstacionesReductoras.md`: PRS completa (anatomía, tipos de PRV, Spirax 25P, TLV COSPECT, dimensionamiento, caso 150→25 psig, errores comunes, fuentes CAD 3D).
+- Fuentes internas clave: manual [[HookUp]] págs. 19-20, Figs. II-13/II-14.
+- Enlazada en índice, [[MOC_Control_y_Valvulas]] y cruzada con [[CalentadorAgua]]. Build OK: 140 notas.
+
 ## 2025 - Sesión: Fuentes CAD 3D calentadores
 - Se agregó sección "Modelos 3D CAD / BIM descargables" a [[CalentadorAgua]]: TraceParts (EasiHeat), BIMobject (Armstrong, AERCO), 3Dfindit, Cemline 3D Drawings, portales genéricos.
 - Build Quartz OK.

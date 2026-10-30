@@ -184,6 +184,9 @@ Bóveda estructurada lógicamente. Aquí tienes el índice organizado:
 ## 05_Calentadores_Agua
 - [[CalentadorAgua]]
 
+## 06_Estaciones_Reductoras
+- [[EstacionesReductoras]]
+
 ## Spirax Sarco
 - [[Loop de Vapor & Condensado - 2015  Colgate]]
 

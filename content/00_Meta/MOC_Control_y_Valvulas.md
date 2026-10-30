@@ -57,4 +57,8 @@ Mapa temático de teoría de control, hardware de control y accesorios de tuber�
 - [[65395-sa]] (TLV)
 - [[HookUp]] / [[Steam]] (Spirax Sarco)
 
+## Investigaciones del proyecto
+- [[EstacionesReductoras]] — Estaciones reductoras de presión de vapor (PRS)
+- [[CalentadorAgua]] — Calentadores instantáneos de agua a vapor
+
 🏠 Volver al [[000_Indice_Principal|Índice Principal]]
