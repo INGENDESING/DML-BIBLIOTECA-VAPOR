@@ -4,6 +4,13 @@
 
 ---
 
+## 2025 - CIERRE DE SESIÓN (estado consolidado)
+- **Sistema de memoria activo**: skill `memoria-boveda`, bootstrap `inicializar.md` (raíz), 4 MOCs temáticos en `00_Meta/`. Para la próxima sesión basta decir "ejecuta inicializar.md".
+- **Investigaciones creadas**: [[CalentadorAgua]] (`05_Calentadores_Agua/`) y [[EstacionesReductoras]] (`06_Estaciones_Reductoras/`), ambas con fuentes web y portales CAD 3D. Formato de investigación: frontmatter + secciones numeradas + tablas + fuentes por sección + backlink.
+- **Decisiones técnicas clave**: calentador de agua 25→65 °C → vapor recomendado 15 psig; caldera 150 psig → calentador 25 psig requiere PRS de una etapa (relación 6:1) con PRV pilotada (Spirax 25P o TLV COS-16) + safety en baja obligatoria.
+- **Flujo de trabajo establecido**: el usuario pide investigación → tabla de instrucciones mejoradas → confirmación → ejecutar hasta el final (investigar, crear carpeta numerada 0X_, integrar en índice+MOC, build Quartz, bitácora, commit+push). Autonomía ALTA confirmada.
+- **Estado repo**: último commit `3c9b4e4` en `main`, GitHub Pages despliega automático. Build Quartz verde: 140 notas.
+
 ## 2025 - Sesión: Investigación estaciones reductoras de vapor
 - Se creó `content/06_Estaciones_Reductoras/EstacionesReductoras.md`: PRS completa (anatomía, tipos de PRV, Spirax 25P, TLV COSPECT, dimensionamiento, caso 150→25 psig, errores comunes, fuentes CAD 3D).
 - Fuentes internas clave: manual [[HookUp]] págs. 19-20, Figs. II-13/II-14.
