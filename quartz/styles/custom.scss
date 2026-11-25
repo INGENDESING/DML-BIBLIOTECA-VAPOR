@@ -255,6 +255,11 @@ html[data-dml-auth="granted"] #dml-access-gate {
     font-size: 1rem;
     line-height: 1.55;
   }
+
+  p strong,
+  p b {
+    color: #ffffff !important;
+  }
 }
 
 .dml-stats {

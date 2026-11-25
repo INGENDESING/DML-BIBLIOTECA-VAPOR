@@ -38,14 +38,19 @@ description: Biblioteca técnica corporativa de ingeniería de vapor, condensado
 Toda la biblioteca está organizada siguiendo la secuencia física real de una planta de vapor industrial, desde la generación en calderas hasta la recuperación del condensado:
 
 ```mermaid
-flowchart LR
-    A["🔥 1. Generación y Calderas<br/>(Cap. 1-3, 16)"] --> B["⚡ 2. Distribución y PRS<br/>(Cap. 9-10, 12 + PRS)"]
-    B --> C["🎛️ 3. Control y Medición<br/>(Cap. 4-8 + Válvulas)"]
-    C --> D["♨️ 4. Proceso y Trazado<br/>(Calentadores, Cap. 13, 15)"]
-    D --> E["💧 5. Trampas de Vapor<br/>(Cap. 11 + Manuales TLV)"]
-    E --> F["♻️ 6. Retorno de Condensado<br/>(Cap. 14 + Vapor Flash)"]
-    F -. "Agua de alimentación y energía recuperada" .-> A
+flowchart TB
+    subgraph S1["Generación y distribución"]
+        direction LR
+        A["🔥 1. Generación y Calderas<br/>(Cap. 1-3, 16)"] --> B["⚡ 2. Distribución y PRS<br/>(Cap. 9-10, 12 + PRS)"] --> C["🎛️ 3. Control y Medición<br/>(Cap. 4-8 + Válvulas)"]
+    end
+    subgraph S2["Proceso, drenaje y retorno"]
+        direction LR
+        D["♨️ 4. Proceso y Trazado<br/>(Calentadores, Cap. 13, 15)"] --> E["💧 5. Trampas de Vapor<br/>(Cap. 11 + Manuales TLV)"] --> F["♻️ 6. Retorno de Condensado<br/>(Cap. 14 + Vapor Flash)"]
+    end
+    S1 --> S2
 ```
+
+*El condensado recuperado vuelve a la caldera como agua de alimentación y energía recuperada, y el ciclo se repite.*
 
 ---
 

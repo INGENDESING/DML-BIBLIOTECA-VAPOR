@@ -10,6 +10,8 @@
 - Texto de los PDFs escapado (`$` abría LaTeX y `<`, `*`, `_` rompían Markdown). Sin avisos de KaTeX en el build.
 - `deploy.yml`: paso que añade `loading="lazy"` a las imágenes tras compilar (HookUp tiene 160 páginas-imagen).
 - Verificado: build exit 0, 141 notas, 4529 enlaces/imágenes sin rotos (solo `/DML-BIBLIOTECA-VAPOR` en 404.html), Índice y 4 MOC sin enlaces rotos.
+- **Revisión visual en Chrome (escritorio, claro y oscuro)**: capítulos 11.3 y 16.1, HookUp y compuerta OK. Corregido: texto en negrita invisible dentro de `.dml-hero` (oscuro sobre oscuro), pie de la compuerta decía "131 Manuales" (ahora 141 Documentos), diagrama Mermaid de la portada ilegible (ahora 2 filas de 3). Vista de celular no verificada (no se pudo emular).
+- Nota: la compuerta de acceso es solo del lado del cliente; el código está en el JS público y el contenido es accesible sin él. No es seguridad real.
 
 ## 2026-11-25 - Sesión: Auditoría y reparación del Libro del Vapor
 - **Causa del texto ilegible**: fuentes de los PDFs sin `/ToUnicode` (111/117 capítulos). Reconvertidos los 117 capítulos con `scripts/pdf_fontfix.py` + `scripts/pdf_a_md.py`: texto correcto, títulos, listas, ~70 tablas simples en Markdown y ~2000 figuras/ecuaciones/tablas complejas como PNG (`01_Libro_del_Vapor/_figuras/`, ~25 MB).

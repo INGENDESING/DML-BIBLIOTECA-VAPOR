@@ -75,7 +75,7 @@ const Body: QuartzComponent = ({ children }: QuartzComponentProps) => {
             </p>
           </form>
           <div class="dml-gate-footer">
-            <span>Acervo Técnico: 131 Manuales · Investigaciones · Data Sheets · Modelos 3D</span>
+            <span>Acervo Técnico: 141 Documentos · Investigaciones · Data Sheets · Modelos 3D</span>
           </div>
         </div>
       </div>
