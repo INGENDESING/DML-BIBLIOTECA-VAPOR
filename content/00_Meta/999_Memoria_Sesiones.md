@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-11-25 - Sesión: Auditoría y reparación del Libro del Vapor
+- **Causa del texto ilegible**: fuentes de los PDFs sin `/ToUnicode` (111/117 capítulos). Reconvertidos los 117 capítulos con `scripts/pdf_fontfix.py` + `scripts/pdf_a_md.py`: texto correcto, títulos, listas, ~70 tablas simples en Markdown y ~2000 figuras/ecuaciones/tablas complejas como PNG (`01_Libro_del_Vapor/_figuras/`, ~25 MB).
+- `Steam Tracing Guide Line` reconstruida con `pdf_a_md_paginas.py` (imagen de página + texto). Eliminado acceso directo `.lnk` suelto.
+- Imágenes con sintaxis `![[nombre.png]]` (las rutas relativas fallaban en Quartz). Verificado: build exit 0, 141 notas, 2063 imágenes resueltas, 0 rotas.
+- Pendiente: revisión visual en navegador (extensión Chrome no conectada).
+
 ## 2026-10-30 - Sesión: Portal Web Corporativo DML Ingenieros Consultores + Control de Acceso
 - **Identidad y UI (`quartz.config.yaml`, `quartz/styles/custom.scss`)**: Rediseño visual corporativo de **DML Ingenieros Consultores** (paleta azul acero `#1b365d` y ámbar térmico `#d97706`, barra superior corporativa `.dml-topbar`, tarjetas `.dml-card`, métricas `.dml-stats` y tablas estilizadas).
 - **Control de acceso común (`quartz/components/Body.tsx`)**: Implementado portal de ingreso corporativo (`#dml-access-gate`) para empleados y clientes de DML con código común (`DML2026` / `DML-VAPOR`), persistencia en `localStorage` y botón de bloqueo rápido.

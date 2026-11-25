@@ -3,3 +3,4 @@ public/
 .quartz-cache/
 quartz/.quartz-cache/
 .vs/
+scripts/__pycache__/
