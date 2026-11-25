@@ -39,11 +39,11 @@ Toda la biblioteca está organizada siguiendo la secuencia física real de una p
 
 ```mermaid
 flowchart TB
-    subgraph S1["Generación y distribución"]
+    subgraph S1[" "]
         direction LR
         A["🔥 1. Generación y Calderas<br/>(Cap. 1-3, 16)"] --> B["⚡ 2. Distribución y PRS<br/>(Cap. 9-10, 12 + PRS)"] --> C["🎛️ 3. Control y Medición<br/>(Cap. 4-8 + Válvulas)"]
     end
-    subgraph S2["Proceso, drenaje y retorno"]
+    subgraph S2[" "]
         direction LR
         D["♨️ 4. Proceso y Trazado<br/>(Calentadores, Cap. 13, 15)"] --> E["💧 5. Trampas de Vapor<br/>(Cap. 11 + Manuales TLV)"] --> F["♻️ 6. Retorno de Condensado<br/>(Cap. 14 + Vapor Flash)"]
     end
