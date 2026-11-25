@@ -4,6 +4,13 @@
 
 ---
 
+## 2026-11-25 (2) - Sesión: Auditoría de las carpetas 02, 03, 04, 08 y del portal
+- Los 14 PDFs que no son del libro (HookUp, Steam, TLV ×8, trazadores ×3, Colgate) estaban como volcado de texto plano sin diagramas ni tablas. Reconvertidos con `scripts/convertir_resto.py` (usa `pdf_a_md_paginas.py`): imagen de cada página + texto en `<details>`, frontmatter con título amigable, marcadores del PDF como encabezados. Imágenes en `_figuras/` de cada carpeta (~54 MB en total).
+- **Bug corregido**: `![[img|Página 1]]` hacía que Quartz leyera el `1` como ancho en px (500 imágenes salían de 1–177 px). Ahora el alt es `Página N (de T)`. Regla: el alt de un embed nunca debe terminar en número.
+- Texto de los PDFs escapado (`$` abría LaTeX y `<`, `*`, `_` rompían Markdown). Sin avisos de KaTeX en el build.
+- `deploy.yml`: paso que añade `loading="lazy"` a las imágenes tras compilar (HookUp tiene 160 páginas-imagen).
+- Verificado: build exit 0, 141 notas, 4529 enlaces/imágenes sin rotos (solo `/DML-BIBLIOTECA-VAPOR` en 404.html), Índice y 4 MOC sin enlaces rotos.
+
 ## 2026-11-25 - Sesión: Auditoría y reparación del Libro del Vapor
 - **Causa del texto ilegible**: fuentes de los PDFs sin `/ToUnicode` (111/117 capítulos). Reconvertidos los 117 capítulos con `scripts/pdf_fontfix.py` + `scripts/pdf_a_md.py`: texto correcto, títulos, listas, ~70 tablas simples en Markdown y ~2000 figuras/ecuaciones/tablas complejas como PNG (`01_Libro_del_Vapor/_figuras/`, ~25 MB).
 - `Steam Tracing Guide Line` reconstruida con `pdf_a_md_paginas.py` (imagen de página + texto). Eliminado acceso directo `.lnk` suelto.

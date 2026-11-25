@@ -28,6 +28,9 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Lazy-load images
+        # Quartz no marca las imágenes como diferidas; HookUp/Steam/Colgate tienen cientos de páginas-imagen
+        run: find public -name '*.html' -exec sed -i 's/<img /<img loading="lazy" decoding="async" /g' {} +
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

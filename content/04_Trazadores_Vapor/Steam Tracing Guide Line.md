@@ -1,28 +1,37 @@
-# Steam Tracing Guide Line
+---
+title: "Guía de Diseño de Trazadores de Vapor (Steam Tracing Guide Line)"
+description: "Guía de diseño de trazado con vapor: cálculo de pérdidas de calor, número de trazadores, trampas y distribución."
+---
+
+# Guía de Diseño de Trazadores de Vapor (Steam Tracing Guide Line)
 
 > Documento original de 22 páginas. Cada página se muestra como imagen fiel al PDF y, debajo, su texto extraído (para búsqueda y copia).
 
-## Página 1
+##### Página 1
 
-![[steam-tracing-guide-line_p01.png|Página 1]]
+![[steam-tracing-guide-line_p001.png|Página 1 (de 22)]]
 
-**Texto de la página**
+<details><summary>Texto de la página</summary>
 
 Steam Tracing DESIGN GUIDE
 
-## Página 2
+</details>
 
-![[steam-tracing-guide-line_p02.png|Página 2]]
+##### Página 2
 
-**Texto de la página**
+![[steam-tracing-guide-line_p002.png|Página 2 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing DESIGN GUIDE Contents Introduction............................................................................ 2 Application Information......................................................... 2 Steam Tracing Design Outline ............................................... 3 Basis for a Good Design Step 1: Establish Design Parameters .................................. 3 Step 2: Select Steam Tracing Method ................................ 4 Step 3: Identify Base Maintain Temperature ................ 4-12 Step 4: Apply Any Adjustment Factors ...................... 13-14 Step 5: Determine Steam Tracing Circuit Lengths ...... 15-16 Step 6: Choose Options/Accessories ......................... 16-17 Design Tips ........................................................................... 18 Tables: Properties of Saturated Steam ......................... 19-20 For additional information about steam tracing, please refer to the Steam Tracing Specification Guide (Thermon Form TSP0010) or contact Thermon.
 
-## Página 3
+</details>
 
-![[steam-tracing-guide-line_p03.png|Página 3]]
+##### Página 3
 
-**Texto de la página**
+![[steam-tracing-guide-line_p003.png|Página 3 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -32,11 +41,13 @@ steam. A feature unique to SafeTrace SLS-IT and DLS-IT is their ability to run c
 
 2
 
-## Página 4
+</details>
 
-![[steam-tracing-guide-line_p04.png|Página 4]]
+##### Página 4
 
-**Texto de la página**
+![[steam-tracing-guide-line_p004.png|Página 4 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 DESIGN GUIDE
 
@@ -46,11 +57,13 @@ Basis for a Good Design . . . Every steam tracing design will involve six design
 
 3
 
-## Página 5
+</details>
 
-![[steam-tracing-guide-line_p05.png|Página 5]]
+##### Página 5
 
-**Texto de la página**
+![[steam-tracing-guide-line_p005.png|Página 5 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -92,7 +105,7 @@ Heat Transfer Compound
 
 15, 30, 50 & 75 psig
 
-3.3
+\3.3
 
 Heat Transfer Compound 100, 150, 200 & 250 psig 3.4
 
@@ -124,11 +137,13 @@ Note . . . 1. Table is based on calcium silicate insulation oversized by one nom
 
 4
 
-## Página 6
+</details>
 
-![[steam-tracing-guide-line_p06.png|Página 6]]
+##### Página 6
 
-**Texto de la página**
+![[steam-tracing-guide-line_p006.png|Página 6 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 DESIGN GUIDE
 
@@ -478,7 +493,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1
 
---
+\--
 
 55
 
@@ -558,7 +573,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
 56
 
@@ -638,13 +653,13 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 76
 
---
+\--
 
 54
 
@@ -666,7 +681,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
 58
 
@@ -718,25 +733,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 65
 
---
+\--
 
---
+\--
 
 72
 
---
+\--
 
 50
 
 79
 
---
+\--
 
 54
 
@@ -746,13 +761,13 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
 50
 
 77
 
---
+\--
 
 55
 
@@ -798,25 +813,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 62
 
---
+\--
 
---
+\--
 
 69
 
---
+\--
 
---
+\--
 
 75
 
---
+\--
 
 52
 
@@ -826,19 +841,19 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
---
+\--
 
 74
 
---
+\--
 
 52
 
 81
 
---
+\--
 
 58
 
@@ -878,27 +893,27 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 57
 
---
+\--
 
---
+\--
 
 63
 
---
+\--
 
---
+\--
 
 69
 
---
+\--
 
---
+\--
 
 75
 
@@ -906,25 +921,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
---
+\--
 
 68
 
---
+\--
 
---
+\--
 
 75
 
---
+\--
 
 53
 
 82
 
---
+\--
 
 57
 
@@ -932,7 +947,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 3
 
---
+\--
 
 57
 
@@ -958,27 +973,27 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 52
 
---
+\--
 
---
+\--
 
 58
 
---
+\--
 
---
+\--
 
 64
 
---
+\--
 
---
+\--
 
 69
 
@@ -986,25 +1001,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
---
+\--
 
 63
 
---
+\--
 
---
+\--
 
 70
 
---
+\--
 
---
+\--
 
 77
 
---
+\--
 
 52
 
@@ -1012,7 +1027,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 3
 
---
+\--
 
 52
 
@@ -1038,27 +1053,27 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 54
 
---
+\--
 
---
+\--
 
 59
 
---
+\--
 
---
+\--
 
 64
 
@@ -1066,25 +1081,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
---
+\--
 
 59
 
---
+\--
 
---
+\--
 
 65
 
---
+\--
 
---
+\--
 
 71
 
---
+\--
 
 50
 
@@ -1092,13 +1107,13 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 3
 
---
+\--
 
---
+\--
 
 76
 
---
+\--
 
 54
 
@@ -1118,27 +1133,27 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 51
 
---
+\--
 
---
+\--
 
 56
 
@@ -1146,51 +1161,51 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
---
+\--
 
 52
 
---
+\--
 
---
+\--
 
 58
 
---
+\--
 
---
+\--
 
 63
 
---
+\--
 
---
+\--
 
 68
 
 3
 
---
+\--
 
---
+\--
 
 67
 
---
+\--
 
---
+\--
 
 75
 
---
+\--
 
 52
 
 82
 
---
+\--
 
 57
 
@@ -1198,93 +1213,95 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 30
 
 2
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 3
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 Notes . . . Tables 3.1 and 3.2 are based on calcium silicate insulation and give approximate values for cellular glass and perlite. All tracers are 3/8" O.D. tubing to provide for economical trap distances. Use Table 4.1 to adjust for ambient temperatures other than 0°F. For pipe temperatures below 80°F, consider using cellular glass or other insulation materials with a low moisture permeability.
 
 5
 
-## Página 7
+</details>
 
-![[steam-tracing-guide-line_p07.png|Página 7]]
+##### Página 7
 
-**Texto de la página**
+![[steam-tracing-guide-line_p007.png|Página 7 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -1874,7 +1891,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
 57
 
@@ -1954,7 +1971,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
 54
 
@@ -2034,19 +2051,19 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
 50
 
 79
 
---
+\--
 
 53
 
 85
 
---
+\--
 
 57
 
@@ -2114,25 +2131,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 73
 
---
+\--
 
 50
 
 79
 
---
+\--
 
 52
 
 84
 
---
+\--
 
 54
 
@@ -2142,7 +2159,7 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
 55
 
@@ -2194,25 +2211,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 68
 
---
+\--
 
---
+\--
 
 73
 
---
+\--
 
---
+\--
 
 78
 
---
+\--
 
 50
 
@@ -2222,13 +2239,13 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
 52
 
 82
 
---
+\--
 
 55
 
@@ -2274,27 +2291,27 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
 59
 
---
+\--
 
---
+\--
 
 64
 
---
+\--
 
---
+\--
 
 68
 
---
+\--
 
---
+\--
 
 72
 
@@ -2302,25 +2319,25 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 2
 
---
+\--
 
---
+\--
 
 72
 
---
+\--
 
---
+\--
 
 78
 
---
+\--
 
 51
 
 83
 
---
+\--
 
 54
 
@@ -2354,91 +2371,93 @@ Isolated Isolated Bare Isolated Isolated Bare Isolated Isolated Bare Isolated Is
 
 1½
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 30
 
 2
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 3
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 6
 
-## Página 8
+</details>
 
-![[steam-tracing-guide-line_p08.png|Página 8]]
+##### Página 8
 
-**Texto de la página**
+![[steam-tracing-guide-line_p008.png|Página 8 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 DESIGN GUIDE
 
@@ -2484,21 +2503,21 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 226
 
---
+\--
 
---
+\--
 
 248
 
---
+\--
 
---
+\--
 
 271
 
---
+\--
 
---
+\--
 
 1½
 
@@ -2506,41 +2525,41 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 230
 
---
+\--
 
---
+\--
 
 253
 
---
+\--
 
---
+\--
 
 276
 
---
+\--
 
---
+\--
 
 2
 
 232
 
---
+\--
 
---
+\--
 
 256
 
---
+\--
 
---
+\--
 
 278
 
---
+\--
 
---
+\--
 
 1
 
@@ -2548,19 +2567,19 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 232
 
---
+\--
 
 243
 
 254
 
---
+\--
 
 265
 
 278
 
---
+\--
 
 2
 
@@ -2570,19 +2589,19 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 234
 
---
+\--
 
 248
 
 256
 
---
+\--
 
 271
 
 280
 
---
+\--
 
 2
 
@@ -2590,19 +2609,19 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 235
 
---
+\--
 
 251
 
 258
 
---
+\--
 
 274
 
 282
 
---
+\--
 
 1
 
@@ -2610,19 +2629,19 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 227
 
---
+\--
 
 234
 
 250
 
---
+\--
 
 255
 
 273
 
---
+\--
 
 3
 
@@ -2632,19 +2651,19 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 230
 
---
+\--
 
 240
 
 253
 
---
+\--
 
 263
 
 276
 
---
+\--
 
 2
 
@@ -2652,19 +2671,19 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers
 
 232
 
---
+\--
 
 244
 
 255
 
---
+\--
 
 267
 
 279
 
---
+\--
 
 1
 
@@ -3358,41 +3377,41 @@ Two Tracers
 
 Three Tracers
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 300
 
---
+\--
 
 302
 
---
+\--
 
 304
 
---
+\--
 
 294
 
---
+\--
 
 298
 
---
+\--
 
 300
 
---
+\--
 
 282
 
@@ -3528,11 +3547,13 @@ Three Tracers
 
 7
 
-## Página 9
+</details>
 
-![[steam-tracing-guide-line_p09.png|Página 9]]
+##### Página 9
 
-**Texto de la página**
+![[steam-tracing-guide-line_p009.png|Página 9 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -3586,27 +3607,27 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 308
 
---
+\--
 
---
+\--
 
 332
 
---
+\--
 
---
+\--
 
 352
 
---
+\--
 
---
+\--
 
 369
 
---
+\--
 
---
+\--
 
 1½
 
@@ -3614,53 +3635,53 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 314
 
---
+\--
 
---
+\--
 
 339
 
---
+\--
 
---
+\--
 
 359
 
---
+\--
 
---
+\--
 
 376
 
---
+\--
 
---
+\--
 
 2
 
 316
 
---
+\--
 
---
+\--
 
 341
 
---
+\--
 
---
+\--
 
 361
 
---
+\--
 
---
+\--
 
 379
 
---
+\--
 
---
+\--
 
 1
 
@@ -3668,25 +3689,25 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 316
 
---
+\--
 
 325
 
 341
 
---
+\--
 
 344
 
 361
 
---
+\--
 
 360
 
 379
 
---
+\--
 
 2
 
@@ -3696,25 +3717,25 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 319
 
---
+\--
 
 332
 
 344
 
---
+\--
 
 351
 
 364
 
---
+\--
 
 368
 
 382
 
---
+\--
 
 2
 
@@ -3722,25 +3743,25 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 320
 
---
+\--
 
 335
 
 345
 
---
+\--
 
 355
 
 366
 
---
+\--
 
 372
 
 384
 
---
+\--
 
 1
 
@@ -3748,25 +3769,25 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 310
 
---
+\--
 
 312
 
 334
 
---
+\--
 
 331
 
 355
 
---
+\--
 
 346
 
 371
 
---
+\--
 
 3
 
@@ -3776,25 +3797,25 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 314
 
---
+\--
 
 321
 
 339
 
---
+\--
 
 340
 
 359
 
---
+\--
 
 356
 
 376
 
---
+\--
 
 2
 
@@ -3802,25 +3823,25 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 316
 
---
+\--
 
 327
 
 341
 
---
+\--
 
 346
 
 362
 
---
+\--
 
 362
 
 379
 
---
+\--
 
 1
 
@@ -4704,11 +4725,13 @@ Tracer Tracers Tracers Tracer Tracers Tracers Tracer Tracers Tracers Tracer Trac
 
 8
 
-## Página 10
+</details>
 
-![[steam-tracing-guide-line_p10.png|Página 10]]
+##### Página 10
 
-**Texto de la página**
+![[steam-tracing-guide-line_p010.png|Página 10 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 DESIGN GUIDE
 
@@ -5238,13 +5261,13 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 58
 
---
+\--
 
 6
 
 20
 
---
+\--
 
 9
 
@@ -5310,13 +5333,13 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 52
 
---
+\--
 
 5
 
 18
 
---
+\--
 
 7
 
@@ -5334,7 +5357,7 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 29
 
---
+\--
 
 9
 
@@ -5382,19 +5405,19 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 50
 
---
+\--
 
---
+\--
 
 15
 
---
+\--
 
 5
 
 18
 
---
+\--
 
 7
 
@@ -5406,13 +5429,13 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 25
 
---
+\--
 
 6
 
 20
 
---
+\--
 
 9
 
@@ -5454,43 +5477,43 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 45
 
---
+\--
 
---
+\--
 
 12
 
---
+\--
 
---
+\--
 
 16
 
---
+\--
 
 5
 
 19
 
---
+\--
 
 7
 
 22
 
---
+\--
 
---
+\--
 
 17
 
---
+\--
 
 7
 
 21
 
---
+\--
 
 9
 
@@ -5526,43 +5549,43 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 42
 
---
+\--
 
---
+\--
 
 10
 
---
+\--
 
---
+\--
 
 13
 
---
+\--
 
---
+\--
 
 16
 
---
+\--
 
 5
 
 19
 
---
+\--
 
---
+\--
 
 15
 
---
+\--
 
---
+\--
 
 18
 
---
+\--
 
 7
 
@@ -5598,55 +5621,55 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 39
 
---
+\--
 
---
+\--
 
 7
 
---
+\--
 
---
+\--
 
 10
 
---
+\--
 
---
+\--
 
 12
 
---
+\--
 
---
+\--
 
 15
 
---
+\--
 
---
+\--
 
 11
 
---
+\--
 
---
+\--
 
 14
 
---
+\--
 
---
+\--
 
 17
 
---
+\--
 
 6
 
 20
 
---
+\--
 
 7
 
@@ -5670,87 +5693,89 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 33
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 Notes . . . Tables 3.5 and 3.6 are based on calcium silicate insulation and give approximate values for cellular glass and perlite. Bare tracers are 12 mm O.D. tubing to provide for economical trap distances. Isolated tracers have 10 mm O.D. tubing. Use Table 4.1 to adjust for ambient temperatures other than -18°C. For pipe temperatures below 27°C, consider using cellular glass or other insulation materials with a low moisture permeability.
 
 9
 
-## Página 11
+</details>
 
-![[steam-tracing-guide-line_p11.png|Página 11]]
+##### Página 11
 
-**Texto de la página**
+![[steam-tracing-guide-line_p011.png|Página 11 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -6608,7 +6633,7 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 62
 
---
+\--
 
 9
 
@@ -6680,13 +6705,13 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 58
 
---
+\--
 
 7
 
 21
 
---
+\--
 
 9
 
@@ -6752,37 +6777,37 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 53
 
---
+\--
 
---
+\--
 
 17
 
---
+\--
 
 5
 
 20
 
---
+\--
 
 6
 
 22
 
---
+\--
 
 8
 
 24
 
---
+\--
 
 7
 
 22
 
---
+\--
 
 9
 
@@ -6824,85 +6849,87 @@ DLS-IT SLS-IT BT or BTS Isolated Isolated Bare
 
 47
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 10
 
-## Página 12
+</details>
 
-![[steam-tracing-guide-line_p12.png|Página 12]]
+##### Página 12
 
-**Texto de la página**
+![[steam-tracing-guide-line_p012.png|Página 12 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 DESIGN GUIDE
 
@@ -6922,57 +6949,57 @@ Three Tracers
 
 107
 
---
+\--
 
---
+\--
 
 109
 
---
+\--
 
---
+\--
 
 110
 
---
+\--
 
---
+\--
 
 104
 
 110
 
---
+\--
 
 107
 
 111
 
---
+\--
 
 108
 
 112
 
---
+\--
 
 100
 
 107
 
---
+\--
 
 104
 
 109
 
---
+\--
 
 105
 
 110
 
---
+\--
 
 95
 
@@ -7192,111 +7219,111 @@ Three Tracers
 
 120
 
---
+\--
 
---
+\--
 
 132
 
---
+\--
 
---
+\--
 
 122
 
---
+\--
 
---
+\--
 
 135
 
---
+\--
 
---
+\--
 
 123
 
---
+\--
 
---
+\--
 
 136
 
---
+\--
 
---
+\--
 
 117
 
 122
 
---
+\--
 
 129
 
 135
 
---
+\--
 
 120
 
 124
 
---
+\--
 
 132
 
 137
 
---
+\--
 
 121
 
 125
 
---
+\--
 
 134
 
 138
 
---
+\--
 
 111
 
 119
 
---
+\--
 
 123
 
 132
 
---
+\--
 
 116
 
 122
 
---
+\--
 
 128
 
 135
 
---
+\--
 
 117
 
 123
 
---
+\--
 
 130
 
 136
 
---
+\--
 
 106
 
@@ -7706,57 +7733,57 @@ Three Tracers
 
 144
 
---
+\--
 
---
+\--
 
 147
 
---
+\--
 
---
+\--
 
 148
 
---
+\--
 
---
+\--
 
 140
 
 147
 
---
+\--
 
 144
 
 149
 
---
+\--
 
 146
 
 150
 
---
+\--
 
 134
 
 144
 
---
+\--
 
 139
 
 147
 
---
+\--
 
 141
 
 148
 
---
+\--
 
 128
 
@@ -7958,11 +7985,13 @@ Three Tracers
 
 11
 
-## Página 13
+</details>
 
-![[steam-tracing-guide-line_p13.png|Página 13]]
+##### Página 13
 
-**Texto de la página**
+![[steam-tracing-guide-line_p013.png|Página 13 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -7982,57 +8011,57 @@ Three Tracers
 
 153
 
---
+\--
 
---
+\--
 
 156
 
---
+\--
 
---
+\--
 
 157
 
---
+\--
 
---
+\--
 
 149
 
 156
 
---
+\--
 
 153
 
 158
 
---
+\--
 
 155
 
 160
 
---
+\--
 
 142
 
 152
 
---
+\--
 
 148
 
 156
 
---
+\--
 
 150
 
 157
 
---
+\--
 
 136
 
@@ -8252,111 +8281,111 @@ Three Tracers
 
 166
 
---
+\--
 
---
+\--
 
 177
 
---
+\--
 
---
+\--
 
 169
 
---
+\--
 
---
+\--
 
 180
 
---
+\--
 
---
+\--
 
 170
 
---
+\--
 
---
+\--
 
 182
 
---
+\--
 
---
+\--
 
 162
 
 170
 
---
+\--
 
 173
 
 181
 
---
+\--
 
 166
 
 172
 
---
+\--
 
 177
 
 184
 
---
+\--
 
 168
 
 174
 
---
+\--
 
 179
 
 185
 
---
+\--
 
 155
 
 165
 
---
+\--
 
 165
 
 176
 
---
+\--
 
 161
 
 169
 
---
+\--
 
 171
 
 180
 
---
+\--
 
 163
 
 171
 
---
+\--
 
 174
 
 182
 
---
+\--
 
 148
 
@@ -8764,57 +8793,57 @@ Three Tracers
 
 186
 
---
+\--
 
---
+\--
 
 190
 
---
+\--
 
---
+\--
 
 191
 
---
+\--
 
---
+\--
 
 182
 
 191
 
---
+\--
 
 186
 
 194
 
---
+\--
 
 188
 
 197
 
---
+\--
 
 174
 
 190
 
---
+\--
 
 180
 
 191
 
---
+\--
 
 183
 
 194
 
---
+\--
 
 166
 
@@ -9016,11 +9045,13 @@ Three Tracers
 
 12
 
-## Página 14
+</details>
 
-![[steam-tracing-guide-line_p14.png|Página 14]]
+##### Página 14
 
-**Texto de la página**
+![[steam-tracing-guide-line_p014.png|Página 14 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Step 4: Apply Any Adjustment Factors Ambient Temperature . . . If the minimum ambient will differ from the base level of 0°F (-18°C) established in Step 3, use Table 4.1 to apply an ambient correction factor. Multiply this coefficient by the difference in the ambient temperature and apply the result to the process temperature. Insulation Materials . . . When insulation materials other than calcium silicate are used, it will be necessary to apply an insulation correction factor. Use Table 4.2 to add or subtract the applicable value to the temperature maintenance value established in Step 3. Note: If both the ambient temperature and the insulation material differ from the 0°F (-18°C) and calcium silicate base values established in Step 3, apply the ambient temperature change first followed by the insulation material change. Examples . . . Using the information from the example on page 4: 1. What would be the effect on the pipe maintain temperature if the ambient temperature was -20°F instead of 0°F? Locate the 10" diameter pipe size and 2" thick insulation rows under the one heat transfer compound (HTC) column to find a coefficient multiplier of 0.24. Multiply this value by the ambient temperature change: 0.24 x 20 = 4.8°F Rounding 4.8 to the nearest whole value results in 5°F. Subtracting this number from the 250°F pipe temperature previously established results in a new maintain temperature of 245°F. 2. What would be the effect on the pipe maintain temperature if the thermal insulation was mineral wool? In the mineral wool column of Table 4.2, find the appropriate value for a 10" diameter line utilizing HTC. Apply this value (+23°F) to the 250°F maintain temperature established in Step 3 to obtain a new maintain temperature of 273°F.
 
@@ -9044,7 +9075,7 @@ One One BT or One Two SLS-IT BTS HTC HTC
 
 .08
 
---
+\--
 
 .45
 
@@ -9052,7 +9083,7 @@ One One BT or One Two SLS-IT BTS HTC HTC
 
 .07
 
---
+\--
 
 .42
 
@@ -9060,7 +9091,7 @@ One One BT or One Two SLS-IT BTS HTC HTC
 
 .06
 
---
+\--
 
 .57
 
@@ -9326,7 +9357,7 @@ One One BT or One Two SLS-IT BTS HTC HTC
 
 .29
 
---
+\--
 
 .82
 
@@ -9350,25 +9381,25 @@ One One BT or One Two SLS-IT BTS HTC HTC
 
 .31
 
---
+\--
 
---
+\--
 
 .65
 
 .49
 
---
+\--
 
---
+\--
 
 .59
 
 .42
 
---
+\--
 
---
+\--
 
 .51
 
@@ -9378,11 +9409,13 @@ Three HTC ---------.08 .07 .06 .11 .09 .07 .11 .09 .07 .13 .12 .10 .19 .16 .13 .
 
 13
 
-## Página 15
+</details>
 
-![[steam-tracing-guide-line_p15.png|Página 15]]
+##### Página 15
 
-**Texto de la página**
+![[steam-tracing-guide-line_p015.png|Página 15 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -9406,159 +9439,161 @@ Mineral Wool
 
 °. (°C)
 
-+5 (+2.8) -- -+23 (+12.8) +30 (+16.7) +7 (+3.9) +4 (+2.2) +24 (+13.3) +29 (+16.1) +9 (+5.0) +5 (+2.8) +26 (+14.4)
+\+5 (+2.8) -- -+23 (+12.8) +30 (+16.7) +7 (+3.9) +4 (+2.2) +24 (+13.3) +29 (+16.1) +9 (+5.0) +5 (+2.8) +26 (+14.4)
 
-+6 (+3.3) -- -+26 (+14.4) +35 (+19.4) +8 (+4.4) +4 (+2.2) +27 (+15.0) +35 (+19.4) +10 (+5.6) +6 (+3.3) +31 (+17.2)
+\+6 (+3.3) -- -+26 (+14.4) +35 (+19.4) +8 (+4.4) +4 (+2.2) +27 (+15.0) +35 (+19.4) +10 (+5.6) +6 (+3.3) +31 (+17.2)
 
-+28 (+15.6)
+\+28 (+15.6)
 
-+34 (+18.9)
+\+34 (+18.9)
 
-+12 (+6.7)
+\+12 (+6.7)
 
-+13 (+7.0)
+\+13 (+7.0)
 
-+7 (+3.9)
+\+7 (+3.9)
 
-+8 (+4.4)
+\+8 (+4.4)
 
-+28 (+15.6) +27 (+15.0) +15 (+8.3) +7 (+3.9) +29 (+16.1) +27 (+15.0) +16 (+8.9) +7 (+3.9) +29 (+16.1) +26 (+14.4) +20 (+11.1) +11 (+6.0) +29 (+16.1) +24 (+13.3) +25 (+13.9) +14 (+7.8) +28 (+15.6) +21 (+11.7) +27 (+15.0) +16 (+8.9) +28 (+15.6) +21 (+11.7) +30 (+16.7) +19 (+10.6) +27 (+15.0) +19 (+10.6) +30 (+16.7) +20 (+11.1) +26 (+14.4) +18 (+10.0) +30 (+16.7) +21 (+11.7) +26 (+14.4) +17 (+9.4) +30 (+16.7) +23 (+12.8) +24 (+13.3) -- -+30 (+16.7) +23 (+12.8) -- --- --
+\+28 (+15.6) +27 (+15.0) +15 (+8.3) +7 (+3.9) +29 (+16.1) +27 (+15.0) +16 (+8.9) +7 (+3.9) +29 (+16.1) +26 (+14.4) +20 (+11.1) +11 (+6.0) +29 (+16.1) +24 (+13.3) +25 (+13.9) +14 (+7.8) +28 (+15.6) +21 (+11.7) +27 (+15.0) +16 (+8.9) +28 (+15.6) +21 (+11.7) +30 (+16.7) +19 (+10.6) +27 (+15.0) +19 (+10.6) +30 (+16.7) +20 (+11.1) +26 (+14.4) +18 (+10.0) +30 (+16.7) +21 (+11.7) +26 (+14.4) +17 (+9.4) +30 (+16.7) +23 (+12.8) +24 (+13.3) -- -+30 (+16.7) +23 (+12.8) -- --- --
 
-+33 (+18.3) +33 (+18.3) +15 (+8.3) +9 (+5.0) +35 (+19.4) +32 (+17.8) +18 (+10.0) +10 (+5.6) +36 (+20.0) +32 (+17.8) +23 (+12.8) +14 (+7.8) +35 (+19.4) +29 (+16.1) +29 (+16.1) +19 (+10.6) +35 (+19.4) +27 (+15.0) +31 (+17.2) +23 (+12.8) +34 (+18.9) +26 (+14.4) +35 (+19.4) +27 (+15.0) +33 (+18.3) +25 (+13.9) +35 (+19.4) +28 (+15.6) +32 (+17.8) +23 (+12.8) +35 (+19.4) +28 (+15.6) +32 (+17.8) +21 (+11.7) +35 (+19.4) +28 (+15.6) +30 (+16.7) -- -+35 (+19.4) +28 (+15.6) -- --- --
+\+33 (+18.3) +33 (+18.3) +15 (+8.3) +9 (+5.0) +35 (+19.4) +32 (+17.8) +18 (+10.0) +10 (+5.6) +36 (+20.0) +32 (+17.8) +23 (+12.8) +14 (+7.8) +35 (+19.4) +29 (+16.1) +29 (+16.1) +19 (+10.6) +35 (+19.4) +27 (+15.0) +31 (+17.2) +23 (+12.8) +34 (+18.9) +26 (+14.4) +35 (+19.4) +27 (+15.0) +33 (+18.3) +25 (+13.9) +35 (+19.4) +28 (+15.6) +32 (+17.8) +23 (+12.8) +35 (+19.4) +28 (+15.6) +32 (+17.8) +21 (+11.7) +35 (+19.4) +28 (+15.6) +30 (+16.7) -- -+35 (+19.4) +28 (+15.6) -- --- --
 
 Expanded Perlite
 
 °. (°C)
 
--4 (-2.2)
+\-4 (-2.2)
 
---
+\--
 
---
+\--
 
--12 (-6.7)
+\-12 (-6.7)
 
--15 (-8.3)
+\-15 (-8.3)
 
--4 (-2.2)
+\-4 (-2.2)
 
--2 (-1.1)
+\-2 (-1.1)
 
--13 (-7.0)
+\-13 (-7.0)
 
--15 (-8.3)
+\-15 (-8.3)
 
--6 (-3.3)
+\-6 (-3.3)
 
--3 (-1.6)
+\-3 (-1.6)
 
--14 (-7.8)
+\-14 (-7.8)
 
--14 (-7.8)
+\-14 (-7.8)
 
--7 (-3.9)
+\-7 (-3.9)
 
--3 (-1.6)
+\-3 (-1.6)
 
--14 (-7.8)
+\-14 (-7.8)
 
--13 (-7.0)
+\-13 (-7.0)
 
--9 (-5.0)
+\-9 (-5.0)
 
--7 (-3.9)
+\-7 (-3.9)
 
--14 (-7.8)
+\-14 (-7.8)
 
--12 (-6.7)
+\-12 (-6.7)
 
--9 (-5.0)
+\-9 (-5.0)
 
--5 (-2.8)
+\-5 (-2.8)
 
--14 (-7.8)
+\-14 (-7.8)
 
--11 (-6.0)
+\-11 (-6.0)
 
--11 (-6.0)
+\-11 (-6.0)
 
--6 (-3.3)
+\-6 (-3.3)
 
--14 (-7.8)
+\-14 (-7.8)
 
--10 (-5.6)
+\-10 (-5.6)
 
--13 (-7.0)
+\-13 (-7.0)
 
--8 (-4.4)
+\-8 (-4.4)
 
--13 (-7.0)
+\-13 (-7.0)
 
--9 (-5.0)
+\-9 (-5.0)
 
--14 (-7.8)
+\-14 (-7.8)
 
--10 (-5.6)
+\-10 (-5.6)
 
--12 (-6.7)
+\-12 (-6.7)
 
--9 (-5.0)
+\-9 (-5.0)
 
--15 (-8.3)
+\-15 (-8.3)
 
--11 (-6.0)
+\-11 (-6.0)
 
--12 (-6.7)
+\-12 (-6.7)
 
--9 (-5.0)
+\-9 (-5.0)
 
--15 (-8.3)
+\-15 (-8.3)
 
--12 (-6.7)
+\-12 (-6.7)
 
--12 (-6.7)
+\-12 (-6.7)
 
--8 (-4.4)
+\-8 (-4.4)
 
--15 (-8.3)
+\-15 (-8.3)
 
--12 (-6.7)
+\-12 (-6.7)
 
--11 (-6.0)
+\-11 (-6.0)
 
--8 (-4.4)
+\-8 (-4.4)
 
--15 (-8.3)
+\-15 (-8.3)
 
--12 (-6.7)
+\-12 (-6.7)
 
--10 (-5.6)
+\-10 (-5.6)
 
---
+\--
 
---
+\--
 
--15 (-8.3)
+\-15 (-8.3)
 
--12 (-6.7)
+\-12 (-6.7)
 
---
+\--
 
---
+\--
 
---
+\--
 
---
+\--
 
 Note . . . These temperature adjustments are approximations only.
 
 14
 
-## Página 16
+</details>
 
-![[steam-tracing-guide-line_p16.png|Página 16]]
+##### Página 16
 
-**Texto de la página**
+![[steam-tracing-guide-line_p016.png|Página 16 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 DESIGN GUIDE
 
@@ -9604,11 +9639,13 @@ Tubing Size 1/2" O.D. (12 mm)3 ft (m) 75 (23) 95 (29) 110 (34) 110 (34) --100 (3
 
 15
 
-## Página 17
+</details>
 
-![[steam-tracing-guide-line_p17.png|Página 17]]
+##### Página 17
 
-**Texto de la página**
+![[steam-tracing-guide-line_p017.png|Página 17 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing S D C
 
@@ -9640,7 +9677,7 @@ Number of Tracers 1/2" (12 mm)
 
 2
 
---
+\--
 
 1
 
@@ -9716,11 +9753,13 @@ Step 6: Choose Options/Accessories Thermon offers a variety of accessories to si
 
 16
 
-## Página 18
+</details>
 
-![[steam-tracing-guide-line_p18.png|Página 18]]
+##### Página 18
 
-**Texto de la página**
+![[steam-tracing-guide-line_p018.png|Página 18 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Strainer Steam Header Steam Supply Manifold Basic Accessories . . .
 
@@ -9746,11 +9785,13 @@ TFK-4 . . . galvanized steel channel covers heat transfer compound applied to 3/
 
 17
 
-## Página 19
+</details>
 
-![[steam-tracing-guide-line_p19.png|Página 19]]
+##### Página 19
 
-**Texto de la página**
+![[steam-tracing-guide-line_p019.png|Página 19 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -9760,11 +9801,13 @@ a. Reduces the number of trap stations and isolation valves and thus material an
 
 18
 
-## Página 20
+</details>
 
-![[steam-tracing-guide-line_p20.png|Página 20]]
+##### Página 20
 
-**Texto de la página**
+![[steam-tracing-guide-line_p020.png|Página 20 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 DESIGN GUIDE
 
@@ -9782,163 +9825,163 @@ Specific Volume Total cu ft/lb
 
 1150
 
-26.8
+\26.8
 
 1151 25.2
 
 1153
 
-23.5
+\23.5
 
 1154
 
-22.3
+\22.3
 
 1154
 
-21.4
+\21.4
 
 1155
 
-20.1
+\20.1
 
 1157
 
-19.4
+\19.4
 
 1157
 
-18.7
+\18.7
 
 1157
 
-18.4
+\18.4
 
 1159
 
-17.1
+\17.1
 
 1160
 
-16.5
+\16.5
 
 1161 15.3
 
 1163
 
-14.3
+\14.3
 
 1164
 
-13.4
+\13.4
 
 1165
 
-12.6
+\12.6
 
 1166
 
-11.9
+\11.9
 
 1167
 
-11.3
+\11.3
 
 1167
 
-10.8
+\10.8
 
 1169
 
-10.3
+\10.3
 
 1169
 
-9.85
+\9.85
 
 1172
 
-9.46
+\9.46
 
 1173
 
-9.10
+\9.10
 
 1173
 
-8.75
+\8.75
 
 1174
 
-8.42
+\8.42
 
 1175
 
-8.08
+\8.08
 
 1176
 
-7.82
+\7.82
 
 1176
 
-7.57
+\7.57
 
 1177
 
-7.31
+\7.31
 
 1177
 
-7.14
+\7.14
 
 1178
 
-6.94
+\6.94
 
 1179
 
-6.68
+\6.68
 
 1180
 
-6.27
+\6.27
 
 1183
 
-5.84
+\5.84
 
 1183
 
-5.49
+\5.49
 
 1184
 
-5.18
+\5.18
 
 1185
 
-4.91
+\4.91
 
 1185
 
-4.67
+\4.67
 
 1187
 
-4.44
+\4.44
 
 1188
 
-4.24
+\4.24
 
 1188
 
-4.05
+\4.05
 
 1189
 
-3.89
+\3.89
 
 Gauge Pressure psig 105 110 115 120 125 130 135 140 145 150 155 160 165 170 175 180 185 190 195 200 205 210 215 220 225 230 235 240 245 250 255 260 265 270 275 280 285 290 295 300
 
@@ -9954,21 +9997,25 @@ Specific Volume cu ft/lb 3.74 3.59 3.46 3.34 3.23 3.12 3.02 2.92 2.84 2.74 2.68 
 
 19
 
-## Página 21
+</details>
 
-![[steam-tracing-guide-line_p21.png|Página 21]]
+##### Página 21
 
-**Texto de la página**
+![[steam-tracing-guide-line_p021.png|Página 21 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Form TSP0013-0299 © Thermon Manufacturing Co. Printed in U.S.A.
 
 THERMON . . . The Heat Tracing Specialists® Corporate Headquarters 100 Thermon Dr. • PO Box 609 • San Marcos, TX 78667-0609 Phone: (512) 396-5801 • Facsimile: (512) 754-2420 • 1-800-820-HEAT www.thermon.com
 
-## Página 22
+</details>
 
-![[steam-tracing-guide-line_p22.png|Página 22]]
+##### Página 22
 
-**Texto de la página**
+![[steam-tracing-guide-line_p022.png|Página 22 (de 22)]]
+
+<details><summary>Texto de la página</summary>
 
 Steam Tracing
 
@@ -9999,6 +10046,8 @@ Total 2760 2762 2764 2667 2769 2771 2773 2774 2776 2778 2780 2781 2783 2784 2786
 Specific Volume m3/kg 0.293 0.279 0.266 0.254 0.243 0.232 0.222 0.212 0.203 0.194 0.186 0.178 0.170 0.163 0.156 0.150 0.144 0.138 0.133 0.127 0.122 0.117 0.113 0.108 0.104 0.100 0.0965 0.0929 0.0894 0.0861
 
 202
+
+</details>
 
 ---
 🏠 Volver al [[000_Indice_Principal|Índice Principal]]
